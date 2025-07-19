@@ -4,17 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "974bea3df64ad553",
+        "id": "245897b14d97671c",
         "type": "tabs",
         "children": [
           {
-            "id": "b7516d46150bf66c",
+            "id": "0dfa7faa4a3fd2bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "ゴール.canvas",
+                "viewState": {
+                  "x": -213.51615854229578,
+                  "y": -427.32661071360025,
+                  "zoom": 0.3333333333333333
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "ゴール"
+            }
+          },
+          {
+            "id": "84620ff6973d1b32",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Bøker/Genki Textbook 3rd Ed.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Genki Textbook 3rd Ed"
+            }
+          },
+          {
+            "id": "047cc44815fc05f5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Bøker/Genki Workbook 3rd Ed.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Genki Workbook 3rd Ed"
             }
           }
         ]
@@ -138,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "ゴール.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of ゴール"
             }
           },
           {
@@ -172,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,8 +219,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4fb505281ced8f35",
+  "active": "0dfa7faa4a3fd2bc",
   "lastOpenFiles": [
+    "Bøker/Genki Textbook 3rd Ed.pdf",
+    "Bøker/Genki Workbook 3rd Ed.pdf",
+    "ゴール.canvas",
+    "Hiragana Flashcards.md",
+    "Bøker",
     "Forelesninger",
     "Welcome.md"
   ]

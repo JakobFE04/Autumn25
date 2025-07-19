@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"5f0319109f57b80c","x":-760,"y":-320,"width":250,"height":50,"color":"6","type":"text","text":"カタカナを書く\nWrite katakana"},
+		{"id":"025937d55b91aedc","x":-760,"y":-420,"width":250,"height":60,"color":"6","type":"text","text":"ひらがなを書く\nWrite hiragana"},
+		{"id":"50d91d992577b1bf","x":-687,"y":-520,"width":105,"height":60,"color":"6","type":"text","text":"書く\nWriting"},
+		{"id":"f54b353a6d21d6d4","x":-759,"y":-220,"width":249,"height":60,"color":"6","type":"text","text":"漢字の練習\nKanji practice"},
+		{"id":"4db0d3d1c70530f8","x":-380,"y":-520,"width":159,"height":60,"color":"4","type":"text","text":"   会話\nConversation"},
+		{"id":"4dabe0f0d70d5547","x":-427,"y":-419,"width":250,"height":60,"color":"4","type":"text","text":"あいさつ\nGreetings"},
+		{"id":"b17f5f8fb63d9a29","x":-425,"y":-321,"width":250,"height":60,"color":"4","type":"text","text":"\nIntroductions"},
+		{"id":"54a0084be54207dc","x":-80,"y":-342,"width":250,"height":102,"color":"4","type":"text","text":"Navn\nAlder\nHvor er fra\nHva jeg studerer og hvor"}
+	],
+	"edges":[
+		{"id":"d6efcf58664fea51","fromNode":"025937d55b91aedc","fromSide":"bottom","toNode":"5f0319109f57b80c","toSide":"top"},
+		{"id":"cb875a7a6d443a99","fromNode":"50d91d992577b1bf","fromSide":"bottom","toNode":"025937d55b91aedc","toSide":"top"},
+		{"id":"175430bc3f7a8a4e","fromNode":"5f0319109f57b80c","fromSide":"bottom","toNode":"f54b353a6d21d6d4","toSide":"top"},
+		{"id":"1f6fb4937d3ac6f4","fromNode":"4db0d3d1c70530f8","fromSide":"bottom","toNode":"4dabe0f0d70d5547","toSide":"top"},
+		{"id":"1859b8aac829a4a3","fromNode":"4dabe0f0d70d5547","fromSide":"bottom","toNode":"b17f5f8fb63d9a29","toSide":"top"},
+		{"id":"00d96de5aaa7239c","fromNode":"b17f5f8fb63d9a29","fromSide":"right","toNode":"54a0084be54207dc","toSide":"left"}
+	]
+}

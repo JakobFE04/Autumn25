@@ -140,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Forelesninger/Forelesning 08.19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Forelesning 08.19"
             }
           },
           {
@@ -154,8 +155,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -188,8 +189,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "244ab228d8a3643e",
+  "active": "87259ee6c3b8f161",
   "lastOpenFiles": [
+    "2025-07-19.md",
     "Forelesninger/Forelesning 08.19.md",
     "Forelesninger",
     "Welcome.md"
