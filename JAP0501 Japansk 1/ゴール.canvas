@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"5f0319109f57b80c","x":-760,"y":-320,"width":250,"height":50,"color":"6","type":"text","text":"カタカナを書く\nWrite katakana"},
-		{"id":"025937d55b91aedc","x":-760,"y":-420,"width":250,"height":60,"color":"6","type":"text","text":"ひらがなを書く\nWrite hiragana"},
+		{"id":"025937d55b91aedc","x":-760,"y":-420,"width":250,"height":120,"color":"6","type":"text","text":"ひらがなを書く\nWrite hiragana\nhttps://www.yosida.com/en/hiragana.html"},
 		{"id":"50d91d992577b1bf","x":-687,"y":-520,"width":105,"height":60,"color":"6","type":"text","text":"書く\nWriting"},
-		{"id":"f54b353a6d21d6d4","x":-759,"y":-220,"width":249,"height":60,"color":"6","type":"text","text":"漢字の練習\nKanji practice"},
 		{"id":"4db0d3d1c70530f8","x":-380,"y":-520,"width":159,"height":60,"color":"4","type":"text","text":"   会話\nConversation"},
 		{"id":"4dabe0f0d70d5547","x":-427,"y":-419,"width":250,"height":60,"color":"4","type":"text","text":"あいさつ\nGreetings"},
 		{"id":"b17f5f8fb63d9a29","x":-425,"y":-321,"width":250,"height":60,"color":"4","type":"text","text":"\nIntroductions"},
-		{"id":"54a0084be54207dc","x":-80,"y":-342,"width":250,"height":102,"color":"4","type":"text","text":"Navn\nAlder\nHvor er fra\nHva jeg studerer og hvor"}
+		{"id":"54a0084be54207dc","x":-80,"y":-342,"width":250,"height":102,"color":"4","type":"text","text":"Navn\nAlder\nHvor er fra\nHva jeg studerer og hvor"},
+		{"id":"5f0319109f57b80c","x":-759,"y":-261,"width":250,"height":121,"color":"6","type":"text","text":"カタカナを書く\nWrite katakana\nhttps://www.yosida.com/en/katakana.html"},
+		{"id":"f54b353a6d21d6d4","x":-758,"y":-100,"width":249,"height":60,"color":"6","type":"text","text":"漢字の練習\nKanji practice"}
 	],
 	"edges":[
 		{"id":"d6efcf58664fea51","fromNode":"025937d55b91aedc","fromSide":"bottom","toNode":"5f0319109f57b80c","toSide":"top"},

@@ -15,9 +15,9 @@
               "state": {
                 "file": "ゴール.canvas",
                 "viewState": {
-                  "x": -213.51615854229578,
-                  "y": -427.32661071360025,
-                  "zoom": 0.3333333333333333
+                  "x": -330.32394921517556,
+                  "y": -160.8906008778527,
+                  "zoom": 0.03636583018302919
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -46,6 +46,18 @@
               },
               "icon": "lucide-file-text",
               "title": "Genki Workbook 3rd Ed"
+            }
+          },
+          {
+            "id": "d8e4da46164e8c9e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "links, apps & dictionaries etc.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "links, apps & dictionaries etc"
             }
           }
         ]
@@ -169,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ゴール.canvas",
+                "file": "links, apps & dictionaries etc.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ゴール"
+              "title": "Outline of links, apps & dictionaries etc"
             }
           },
           {
@@ -203,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,11 +230,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0dfa7faa4a3fd2bc",
+  "active": "4fb505281ced8f35",
   "lastOpenFiles": [
-    "Bøker/Genki Textbook 3rd Ed.pdf",
-    "Bøker/Genki Workbook 3rd Ed.pdf",
     "ゴール.canvas",
+    "Hei Stella.md",
+    "links, apps & dictionaries etc.pdf",
+    "mso1A72.tmp",
+    "mso17B2.tmp",
+    "~$nks, apps & dictionaries etc(1) (1).docx",
+    "Bøker/Genki Workbook 3rd Ed.pdf",
+    "links, apps & dictionaries etc(1) (1).docx",
+    "Bøker/Genki Textbook 3rd Ed.pdf",
     "Hiragana Flashcards.md",
     "Bøker",
     "Forelesninger",
