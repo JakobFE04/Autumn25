@@ -20,8 +20,33 @@
               "icon": "lucide-file",
               "title": "Forelesning 08.19"
             }
+          },
+          {
+            "id": "91e442d984508676",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Boken.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Boken"
+            }
+          },
+          {
+            "id": "65545d53628e40b4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "semesterplan-h25-tdt4160.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "semesterplan-h25-tdt4160"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,10 +215,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "87259ee6c3b8f161",
+  "active": "91e442d984508676",
   "lastOpenFiles": [
-    "2025-07-19.md",
     "Forelesninger/Forelesning 08.19.md",
+    "Boken.pdf",
+    "semesterplan-h25-tdt4160.pdf",
+    "Ikke bekreftet 331836.crdownload",
+    "Forelesninger/PDF/tdt4160-f1-intro.pdf",
+    "Bilder/Størrelsesorden.png",
+    "Bilder",
+    "Ikke bekreftet 466832.crdownload",
+    "Forelesninger/PDF/Ikke bekreftet 516643.crdownload",
+    "Forelesninger/PDF",
+    "Forelesninger/Ny mappe",
+    "2025-07-19.md",
     "Forelesninger",
     "Welcome.md"
   ]

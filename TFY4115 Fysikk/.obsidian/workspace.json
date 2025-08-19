@@ -11,10 +11,32 @@
             "id": "587473f7df9758ba",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Forelesninger/Forelesning 19.08.25.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Forelesning 19.08.25"
+            }
+          }
+        ]
+      },
+      {
+        "id": "473dec3b01a6e215",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "727955c8e3d7be7a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Forelesninger/PDF/Forelesning01K(1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Forelesning01K(1)"
             }
           }
         ]
@@ -74,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b10563b906fce344",
@@ -174,8 +197,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1a37baf8dfbfeb42",
+  "active": "587473f7df9758ba",
   "lastOpenFiles": [
+    "Forelesninger/PDF/Forelesning01K(1).pdf",
+    "Forelesninger/Forelesning 19.08.25.md",
+    "Bilder/Forelesninger/Forelesning 19.08.25 bilde 1.png",
+    "Bilder/Forelesninger",
+    "Bilder",
+    "Forelesninger/PDF/Ikke bekreftet 662144.crdownload",
+    "Forelesninger/PDF",
+    "Forelesninger/Ny mappe",
     "Forelesninger",
     "Welcome.md"
   ]
