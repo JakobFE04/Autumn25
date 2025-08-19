@@ -8,16 +8,57 @@
         "type": "tabs",
         "children": [
           {
+            "id": "39b248c3a707eba2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Arbeidshefter/3-1/3-1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3-1"
+            }
+          },
+          {
+            "id": "0e2aa1e96cf1fb0b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Arbeidshefter/3-1/3-1-lf.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3-1-lf"
+            }
+          },
+          {
+            "id": "47595dc1ebde8452",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Arbeidshefter/3-1/Oppgaver.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Oppgaver"
+            }
+          },
+          {
             "id": "a1f355b49a8de3ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Forelesninger/Kap 3-1 19.08.25.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Kap 3-1 19.08.25"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -174,8 +215,24 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b70d06ad8ba527b3",
+  "active": "a1f355b49a8de3ff",
   "lastOpenFiles": [
+    "Kapitel Notater/Kap 3-1 FLUENS STOLTE GANG OVER RULLEGARDINEN.md",
+    "Forelesninger/Kap 3-1 19.08.25.md",
+    "Bilder/Forelesninger/19.08.25 nr4.png",
+    "Bilder/Forelesninger/19.08.25 nr3.png",
+    "Bilder/Forelesninger/19.08.25 nr2.png",
+    "Arbeidshefter/3-1/3-1.pdf",
+    "Bilder/Forelesninger/19.08.25 nr1.png",
+    "Bilder/Forelesninger",
+    "Bilder/Ny mappe",
+    "Arbeidshefter/3-1/3-1-lf.pdf",
+    "Arbeidshefter/3-1/Oppgaver.md",
+    "Bilder/Notater/3-1 bilde 1.png",
+    "Bilder/Notater",
+    "Bilder",
+    "Kapitel Notater",
+    "Arbeidshefter/3-1/Oppgaver 1.md",
     "Forelesninger",
     "Welcome.md"
   ]

@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": -330.32394921517556,
                   "y": -160.8906008778527,
-                  "zoom": 0.03636583018302919
+                  "zoom": -0.21277876019477843
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -230,8 +230,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4fb505281ced8f35",
+  "active": "0dfa7faa4a3fd2bc",
   "lastOpenFiles": [
+    "Bøker/Genki Textbook 3rd Ed.pdf",
     "ゴール.canvas",
     "Hei Stella.md",
     "links, apps & dictionaries etc.pdf",
@@ -240,7 +241,6 @@
     "~$nks, apps & dictionaries etc(1) (1).docx",
     "Bøker/Genki Workbook 3rd Ed.pdf",
     "links, apps & dictionaries etc(1) (1).docx",
-    "Bøker/Genki Textbook 3rd Ed.pdf",
     "Hiragana Flashcards.md",
     "Bøker",
     "Forelesninger",
