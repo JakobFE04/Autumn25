@@ -54,13 +54,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "links, apps & dictionaries etc.pdf"
+                "file": "semesterplan høst 2025.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "links, apps & dictionaries etc"
+              "title": "semesterplan høst 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -219,6 +220,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
@@ -230,12 +232,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0dfa7faa4a3fd2bc",
+  "active": "d8e4da46164e8c9e",
   "lastOpenFiles": [
-    "Bøker/Genki Textbook 3rd Ed.pdf",
-    "ゴール.canvas",
-    "Hei Stella.md",
     "links, apps & dictionaries etc.pdf",
+    "ゴール.canvas",
+    "Bøker/Genki Textbook 3rd Ed.pdf",
+    "Hei Stella.md",
     "mso1A72.tmp",
     "mso17B2.tmp",
     "~$nks, apps & dictionaries etc(1) (1).docx",

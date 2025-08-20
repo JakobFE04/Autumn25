@@ -8,16 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77eb3b5430d2d450",
+            "id": "895f5df7ad7c0d80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Øvinger/Øving 9/Oppgaver Øving 9.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Oppgaver Øving 9"
             }
           }
         ]
+      },
+      {
+        "id": "c192f864d62629d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77eb3b5430d2d450",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Øvinger/Øving 9/oving_9.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "oving_9"
+            }
+          },
+          {
+            "id": "b389b785a43bb262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Video notater/T2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "T2"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,6 +200,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -172,9 +212,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fa2c31f9b20e7f13",
+  "active": "895f5df7ad7c0d80",
   "lastOpenFiles": [
-    "Forelesninger",
+    "Video notater/T2.md",
+    "Øvinger/Øving 9/Oppgaver Øving 9.md",
+    "aktivitetsplan 2025.pdf",
+    "Bilder/Øvinger/Øving 9/BILDE 1.png",
+    "Bilder/Øvinger/Øving 9",
+    "Bilder/Øvinger",
+    "Øvinger/Øving 9/oving_9.pdf",
+    "Bilder/Video notater/Arbeidspunkt formler.png",
+    "Forelesninger/Forelesning 20.08.25.md",
+    "Øvinger/Øving 9/Ikke bekreftet 620513.crdownload",
+    "Øvinger/Øving 9",
+    "Øvinger/Ny mappe",
+    "Øvinger",
+    "Ny mappe",
+    "Bilder/Video notater/Småsignal modell npn.png",
+    "Bilder/Video notater",
+    "Bilder/Video notater/Transistorkrets npn.png",
     "Welcome.md"
   ]
 }

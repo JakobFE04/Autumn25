@@ -25,12 +25,14 @@
             "id": "91e442d984508676",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Boken.pdf"
+                "file": "Notater/Kap 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Boken"
+              "icon": "lucide-file",
+              "title": "Kap 1"
             }
           },
           {
@@ -39,14 +41,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "semesterplan-h25-tdt4160.pdf"
+                "file": "Boken.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "semesterplan-h25-tdt4160"
+              "title": "Boken"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,6 +206,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -215,21 +218,24 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "91e442d984508676",
+  "active": "65545d53628e40b4",
   "lastOpenFiles": [
-    "Forelesninger/Forelesning 08.19.md",
+    "Notater/Kap 1.md",
     "Boken.pdf",
-    "semesterplan-h25-tdt4160.pdf",
+    "Forelesninger/Forelesning 08.19.md",
+    "Bilder/Forelesninger",
+    "Bilder/Notater/Kap 1",
+    "Bilder/Notater",
+    "Bilder/Notater/Kap 1/Komponent påvirkning på cpu performance.png",
+    "Planer",
+    "Bilder/Notater/Kap 1/Tid beregning for program.png",
+    "Planer/semesterplan-h25-tdt4160.pdf",
+    "Notater/Kap 1",
+    "Notater",
     "Ikke bekreftet 331836.crdownload",
     "Forelesninger/PDF/tdt4160-f1-intro.pdf",
-    "Bilder/Størrelsesorden.png",
-    "Bilder",
-    "Ikke bekreftet 466832.crdownload",
-    "Forelesninger/PDF/Ikke bekreftet 516643.crdownload",
-    "Forelesninger/PDF",
-    "Forelesninger/Ny mappe",
+    "Bilder/Forelesninger/Størrelsesorden.png",
     "2025-07-19.md",
-    "Forelesninger",
     "Welcome.md"
   ]
 }
