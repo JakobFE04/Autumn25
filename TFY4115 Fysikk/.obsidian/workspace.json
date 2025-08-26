@@ -13,30 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forelesninger/Forelesning 19.08.25.md",
+                "file": "Forelesninger/Forelesning 08.26.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelesning 19.08.25"
+              "title": "Forelesning 08.26.25"
             }
           }
         ]
       },
       {
-        "id": "473dec3b01a6e215",
+        "id": "344e8d5caa7662d9",
         "type": "tabs",
         "children": [
           {
-            "id": "727955c8e3d7be7a",
+            "id": "b18ee8768088c158",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Forelesninger/PDF/Forelesning01K(1).pdf"
+                "file": "Forelesninger/PDF/Forelesning03K.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Forelesning01K(1)"
+              "title": "Forelesning03K"
             }
           }
         ]
@@ -113,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Forelesninger/Forelesning 08.26.25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Forelesning 08.26.25"
             }
           },
           {
@@ -176,16 +177,27 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "35c44a710cfeaa0e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -199,15 +211,21 @@
   },
   "active": "587473f7df9758ba",
   "lastOpenFiles": [
-    "Forelesninger/PDF/Forelesning01K(1).pdf",
-    "Forelesninger/Forelesning 19.08.25.md",
+    "Forelesninger/PDF/Forelesning03K.pdf",
+    "Anvendelser/Anvendelser01.pdf",
+    "Anvendelser/Ikke bekreftet 613548.crdownload",
+    "Anvendelser/Anvendelser02.pdf",
+    "Anvendelser/Ikke bekreftet 470835.crdownload",
+    "Anvendelser/Anvendelser03.pdf",
+    "Anvendelser/Ikke bekreftet 462713.crdownload",
+    "Anvendelser",
+    "Ny mappe",
+    "Øvinger/oving1.pdf",
+    "Øvinger",
+    "Forelesninger/Forelesning 08.26.25.md",
+    "Bilder/Forelesninger/26.08.25 nr 1.png",
+    "Forelesninger/Forelesning 08.19.25.md",
     "Bilder/Forelesninger/Forelesning 19.08.25 bilde 1.png",
-    "Bilder/Forelesninger",
-    "Bilder",
-    "Forelesninger/PDF/Ikke bekreftet 662144.crdownload",
-    "Forelesninger/PDF",
-    "Forelesninger/Ny mappe",
-    "Forelesninger",
     "Welcome.md"
   ]
 }

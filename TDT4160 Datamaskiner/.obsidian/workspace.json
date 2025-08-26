@@ -8,19 +8,59 @@
         "type": "tabs",
         "children": [
           {
+            "id": "f77dea87b9f4623a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Datdig Pensumbok + 36.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Datdig Pensumbok + 36"
+            }
+          },
+          {
             "id": "244ab228d8a3643e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25-v1.pdf"
+                "file": "Forelesninger/PDF/tdt4160-f1-intro.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25-v1"
+              "title": "tdt4160-f1-intro"
             }
           },
           {
-            "id": "91e442d984508676",
+            "id": "661f8a5847fefb43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forelesninger/Forelesning 08.26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forelesning 08.26"
+            }
+          },
+          {
+            "id": "90694e93d23e865e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notater/Kap 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kap 1"
+            }
+          },
+          {
+            "id": "1d479055dbbdc997",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,25 +71,6 @@
               },
               "icon": "lucide-file",
               "title": "Kap 2"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a21e51c5e4e4bba0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f77dea87b9f4623a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Datdig Pensumbok + 36.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Datdig Pensumbok + 36"
             }
           }
         ]
@@ -224,24 +245,28 @@
   },
   "active": "f77dea87b9f4623a",
   "lastOpenFiles": [
+    "Notater/Kap 1.md",
     "Notater/Kap 2.md",
-    "Bilder/Notater/Kap 2/kap 2.6 1.png",
     "Datdig Pensumbok + 36.pdf",
+    "Forelesninger/PDF/tdt4160-f1-intro.pdf",
+    "Forelesninger/Forelesning 08.26.md",
+    "Pasted image 20250826113944.png",
+    "Pasted image 20250826112222.png",
+    "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25-v1.pdf",
+    "Pasted image 20250826102101.png",
+    "Bilder/Notater/Kap 2/kap 2.6 1.png",
     "Bilder/Notater/Kap 2/Kap 2.5 2.png",
     "Boken.pdf",
     "Bilder/Notater/Kap 2",
     "Bilder/Notater/Kap 2/Kap 2.5 RISC-V Fields.png",
-    "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25-v1.pdf",
     "Planer/semesterplan-h25-tdt4160.pdf",
     "Oppgaver/Kap 1.md",
     "Forelesninger/Forelesning 08.19.md",
-    "Notater/Kap 1.md",
     "Oppgaver",
     "Bilder/Forelesninger",
     "Bilder/Notater/Kap 1",
     "Bilder/Notater",
     "Bilder/Notater/Kap 1/Komponent påvirkning på cpu performance.png",
-    "Planer",
     "Bilder/Notater/Kap 1/Tid beregning for program.png",
     "Bilder/Forelesninger/Størrelsesorden.png",
     "2025-07-19.md",
