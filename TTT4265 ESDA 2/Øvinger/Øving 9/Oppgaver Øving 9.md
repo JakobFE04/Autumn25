@@ -39,3 +39,36 @@ Om basen kobles rett til jord så vil transistoren lukkes og det vil gå null st
 Måler med waveforms og får at $V_{B}=0.56V$ og $V_{C}=4.95V$
 $I_{B}=\frac{V_{CC}-V_{B}}{R_{B}}=\frac{4.44}{220k}=20\mu A$
 $I_{C}=\frac{V_{CC}-V_{C}}{R_{C}}=\frac{0.05}{470}=106.4\mu A$
+$\beta=\frac{I_{C}}{I_{B}}=\frac{106.4}{20}=5.32$
+
+![[øving 9 3 a.png|200]]
+
+Med 10k potmeter i max og min
+$V_{C_{MAX}}=4.81V$
+$V_{B_{MAX}}=0.68V$
+$I_{B_{MAX}}=\frac{4.32}{220k}=19.6\mu A$
+$I_{C_{MAX}}=\frac{0.19}{10}=0.19mA$
+$\beta=969\approx 1000$
+
+
+$V_{C_{MIN}}=0.63V$
+$V_{B_{MIN}}=0.62V$
+$I_{B_{MIN}}=\frac{4.38}{220k}=19.9\mu A$
+$I_{C_{MAX}}=\frac{4.37}{10k}=437\mu A$
+$\beta=21.94$
+
+Beta vil variere veldig utifra om motstands verdiene, med to ekstremer så får vi et stort spenn på beta.
+
+## b)
+![[Øving 9 3 b.png]]
+
+![[øving 9 3 b 2.png]]
+$v_{1}=20mV$ Amplitude 1kHz
+$v_{2}=82mV$ Amplitude => Spenningsforsterkning på ca 4 ganger
+
+![[Pasted image 20250822134435.png]]
+Ved 50mV amplitude på $v_{1}$ så begynner $v_{2}$ å klippe i bunnen. 
+
+## c)
+Du kan forbedre forsterkerens egenskaper som spenningsforsterkning ved å øke $R_{C}$. Men det vil føre til mindre strøm. 
+Du kan også minke $R_{C}$ for å øke strømmen, men da minsker spenningsforsterkningen igjen. I tillegg kan du endre arbeidspunktet for base-emitter spenningen ($v_{BE}$) slik at du forsterker mer topper/bunner av signalet, men det vil da føre til klipping av den andre.

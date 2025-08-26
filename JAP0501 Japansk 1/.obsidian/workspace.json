@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0dfa7faa4a3fd2bc",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "ゴール.canvas",
-                "viewState": {
-                  "x": -330.32394921517556,
-                  "y": -160.8906008778527,
-                  "zoom": -0.21277876019477843
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "ゴール"
-            }
-          },
-          {
             "id": "84620ff6973d1b32",
             "type": "leaf",
             "state": {
@@ -37,31 +20,35 @@
             }
           },
           {
-            "id": "047cc44815fc05f5",
+            "id": "4ee728c97119c0ed",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Bøker/Genki Workbook 3rd Ed.pdf"
+                "file": "Forelesninger/21.08.25.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Genki Workbook 3rd Ed"
+              "icon": "lucide-file",
+              "title": "21.08.25"
             }
           },
           {
             "id": "d8e4da46164e8c9e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "semesterplan høst 2025.pdf"
+                "file": "Forelesninger/25.08.25.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "semesterplan høst 2025"
+              "icon": "lucide-file",
+              "title": "25.08.25"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,20 +220,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d8e4da46164e8c9e",
+  "active": "4ee728c97119c0ed",
   "lastOpenFiles": [
-    "links, apps & dictionaries etc.pdf",
-    "ゴール.canvas",
+    "Forelesninger/25.08.25.md",
+    "Nyttige ord & utryk.md",
+    "Forelesninger/21.08.25.md",
+    "BB Info",
     "Bøker/Genki Textbook 3rd Ed.pdf",
-    "Hei Stella.md",
-    "mso1A72.tmp",
-    "mso17B2.tmp",
-    "~$nks, apps & dictionaries etc(1) (1).docx",
     "Bøker/Genki Workbook 3rd Ed.pdf",
-    "links, apps & dictionaries etc(1) (1).docx",
+    "BB Info/「サイレントウェイ式仮名導入表」教科書体[新推奨版].pdf",
+    "BB Info/OBLIGATORISKE OPPGAVER JAP0501 høst 2025.pdf",
+    "BB Info/Countig Words.pdf",
+    "msoB978.tmp",
+    "mso12A8.tmp",
+    "mso1121.tmp",
+    "BB Info/semesterplan høst 2025.pdf",
+    "ゴール.canvas",
+    "Hei Stella.md",
     "Hiragana Flashcards.md",
-    "Bøker",
-    "Forelesninger",
     "Welcome.md"
   ]
 }

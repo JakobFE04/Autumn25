@@ -11,12 +11,14 @@
             "id": "0e2aa1e96cf1fb0b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Arbeidshefter/3-1/3-1-lf.pdf"
+                "file": "Forelesninger/Kap 3-2 26.08.25.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "3-1-lf"
+              "icon": "lucide-file",
+              "title": "Kap 3-2 26.08.25"
             }
           },
           {
@@ -201,6 +203,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -212,51 +215,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "002a9219eee93169",
-    "type": "floating",
-    "children": [
-      {
-        "id": "32f4b5bbda8b0491",
-        "type": "window",
-        "children": [
-          {
-            "id": "d77352b71c68ca47",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "39b248c3a707eba2",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Arbeidshefter/3-1/3-1.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "3-1"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1495,
-        "y": 8,
-        "width": 1320,
-        "height": 993,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "0e2aa1e96cf1fb0b",
   "lastOpenFiles": [
-    "Arbeidshefter/3-1/Oppgaver.md",
     "Arbeidshefter/3-1/3-1-lf.pdf",
+    "Forelesninger/Kap 3-2 26.08.25.md",
+    "Arbeidshefter/3-1/3-1.pdf",
+    "Arbeidshefter/3-1/Oppgaver.md",
     "Forelesninger/Kap 3-1 19.08.25.md",
     "Kapitel Notater/Kap 3-1 FLUENS STOLTE GANG OVER RULLEGARDINEN.md",
     "Bilder/Notater/geogebra1.png",
-    "Arbeidshefter/3-1/3-1.pdf",
     "Bilder/Forelesninger/19.08.25 nr4.png",
     "Bilder/Forelesninger/19.08.25 nr3.png",
     "Bilder/Forelesninger/19.08.25 nr2.png",
