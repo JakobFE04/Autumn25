@@ -13,30 +13,69 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forelesninger/Forelesning 08.26.25.md",
+                "file": "Forelesninger/Forelesning 08.19.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelesning 08.26.25"
+              "title": "Forelesning 08.19.25"
             }
-          }
-        ]
-      },
-      {
-        "id": "344e8d5caa7662d9",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b18ee8768088c158",
+            "id": "d3c8a06a5ada5f5e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Forelesninger/PDF/Forelesning03K.pdf"
+                "file": "Øvinger/Øving 1/oving1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Forelesning03K"
+              "title": "oving1"
+            }
+          },
+          {
+            "id": "b12f03e1426bbb5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Øvinger/Øving 1/Øving 1 Oppgaver.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Øving 1 Oppgaver"
+            }
+          },
+          {
+            "id": "b5c948edeb3c4df9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Øvinger/Øving 1/losning1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "losning1"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "ffd7d2549fc901db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f02b45366c08d81",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Øvinger/Øving 1/Notes.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Notes"
             }
           }
         ]
@@ -96,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b10563b906fce344",
@@ -193,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,22 +248,23 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "587473f7df9758ba",
+  "active": "2904ea465fb6af3c",
   "lastOpenFiles": [
+    "Øvinger/Øving 1/losning1.pdf",
+    "Øvinger/Øving 1/Notes.md",
+    "Øvinger/Øving 1/oving1.pdf",
+    "Øvinger/Øving 1/Øving 1 Oppgaver.md",
+    "Forelesninger/Forelesning 08.19.25.md",
+    "Forelesninger/Forelesning 08.26.25.md",
+    "Øvinger/Øving 1/Ikke bekreftet 123719.crdownload",
+    "Øvinger/Øving 1",
     "Forelesninger/PDF/Forelesning03K.pdf",
     "Anvendelser/Anvendelser01.pdf",
     "Anvendelser/Ikke bekreftet 613548.crdownload",
     "Anvendelser/Anvendelser02.pdf",
     "Anvendelser/Ikke bekreftet 470835.crdownload",
     "Anvendelser/Anvendelser03.pdf",
-    "Anvendelser/Ikke bekreftet 462713.crdownload",
-    "Anvendelser",
-    "Ny mappe",
-    "Øvinger/oving1.pdf",
-    "Øvinger",
-    "Forelesninger/Forelesning 08.26.25.md",
     "Bilder/Forelesninger/26.08.25 nr 1.png",
-    "Forelesninger/Forelesning 08.19.25.md",
     "Bilder/Forelesninger/Forelesning 19.08.25 bilde 1.png",
     "Welcome.md"
   ]
