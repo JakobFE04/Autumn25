@@ -26,7 +26,7 @@ Veldig rotete notater for kobling:
 
 Koblet en $33k\Omega$ motstand og 5V på inngangen og målte spenningen over den til 4.36V. Regner så ut $R_{O}=R:B||R_{\pi}\approx 4.9k\Omega$.
 
-Samme på utgangen med en 
+Samme på utgangen med en 5.6k $\Omega$ motstand og 5V
 
 # Oppgave 2)
 ## a)
