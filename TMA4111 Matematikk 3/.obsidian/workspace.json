@@ -214,48 +214,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "b7e72c01e16c163b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7879b34d6de2e04f",
-        "type": "window",
-        "children": [
-          {
-            "id": "fb29b07cc24a84d7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "77b614454d754322",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Arbeidshefter/3-3/3-3.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "3-3"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -963,
-        "y": 317,
-        "width": 601,
-        "height": 601,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "77b614454d754322",
+  "active": "2186ee2f0391ef1f",
   "lastOpenFiles": [
+    "Arbeidshefter/3-3/3-3.pdf",
     "Arbeidshefter/3-3/Oppgaver 1.md",
     "Arbeidshefter/3-3/3-3-lf.pdf",
-    "Arbeidshefter/3-3/3-3.pdf",
     "Forelesninger/Kap 3-3 26.08.25.md",
     "Forelesninger/Kap 3-2 02.09.25.md",
     "Arbeidshefter/3-2/Oppgaver.md",
