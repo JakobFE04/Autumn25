@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forelesninger/Kap 3-3 26.08.25.md",
+                "file": "Forelesninger/Kap 3-3 02.09.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kap 3-3 26.08.25"
+              "title": "Kap 3-3 02.09.25"
             }
           },
           {
@@ -39,10 +39,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Arbeidshefter/3-3/Oppgaver 1.md"
+                "file": "Arbeidshefter/3-3/Oppgaver.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Oppgaver 1"
+              "title": "Oppgaver"
             }
           }
         ],
@@ -119,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Forelesninger/Kap 3-3 02.09.25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Kap 3-3 02.09.25"
             }
           },
           {
@@ -214,23 +215,61 @@
       "obsidian-kanban:Create new board": false
     }
   },
+  "floating": {
+    "id": "2fa9f2f9daeb8045",
+    "type": "floating",
+    "children": [
+      {
+        "id": "90714858ceebabaa",
+        "type": "window",
+        "children": [
+          {
+            "id": "0f31aca0d372de8c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d37d0199ff461116",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Arbeidshefter/3-3/3-3.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "3-3"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 912,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "2186ee2f0391ef1f",
   "lastOpenFiles": [
-    "Arbeidshefter/3-3/3-3.pdf",
-    "Arbeidshefter/3-3/Oppgaver 1.md",
     "Arbeidshefter/3-3/3-3-lf.pdf",
-    "Forelesninger/Kap 3-3 26.08.25.md",
-    "Forelesninger/Kap 3-2 02.09.25.md",
+    "Arbeidshefter/3-3/Oppgaver.md",
+    "Forelesninger/Kap 3-3 02.09.25.md",
+    "Arbeidshefter/3-3/3-3.pdf",
+    "Arbeidshefter/3-2/3-2.pdf",
+    "Arbeidshefter/3-2/3-2-lf.pdf",
+    "Pasted Image 20250906182132_281.png",
+    "Forelesninger/Kap 3-2 26.08.25.md",
+    "Forelesninger/Kap 3-1 19.08.25.md",
     "Arbeidshefter/3-2/Oppgaver.md",
     "Arbeidshefter/3-1/Oppgaver.md",
     "Bilder/Forelesninger/02.09.25 nr 5.png",
     "Bilder/Forelesninger/02.09.25 nr 4.png",
     "Bilder/Forelesninger/02.09.25 nr 3.png",
-    "Arbeidshefter/3-2/3-2.pdf",
     "Bilder/Forelesninger/02.09.25 nr 2.png",
     "Bilder/Forelesninger/02.09.25 nr 1.png",
-    "Arbeidshefter/3-2/3-2-lf.pdf",
-    "Forelesninger/Kap 3-1 19.08.25.md",
     "Arbeidshefter/3-1/3-1.pdf",
     "Oppgaver å dra tilbake til.md",
     "Arbeidshefter/3-13/Oppgaver 1.md",
@@ -249,7 +288,6 @@
     "Bilder/Forelesninger/26.08.25 nr 4.png",
     "Bilder/Forelesninger/26.08.25 nr 3.png",
     "Bilder/Forelesninger/26.08.25 nr 2.png",
-    "Bilder/Forelesninger/26.08.25 nr 1.png",
     "Arbeidshefter/3-5/3-5.pdf",
     "Arbeidshefter/3-1/3-1-lf.pdf",
     "Kapitel Notater/Kap 3-1 FLUENS STOLTE GANG OVER RULLEGARDINEN.md",
