@@ -211,45 +211,9 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
-  },
-  "floating": {
-    "id": "2fa9f2f9daeb8045",
-    "type": "floating",
-    "children": [
-      {
-        "id": "90714858ceebabaa",
-        "type": "window",
-        "children": [
-          {
-            "id": "0f31aca0d372de8c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d37d0199ff461116",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Arbeidshefter/3-3/3-3.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "3-3"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 32,
-        "width": 768,
-        "height": 912,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
   },
   "active": "2186ee2f0391ef1f",
   "lastOpenFiles": [
