@@ -1,42 +1,20 @@
 {
   "main": {
-    "id": "d64a1defd410c3bc",
+    "id": "47797c8a37031c02",
     "type": "split",
     "children": [
       {
-        "id": "d39f0f1dd020f8c1",
+        "id": "80ed034d3fa76574",
         "type": "tabs",
         "children": [
           {
-            "id": "587473f7df9758ba",
+            "id": "f5fcb0a0ea41dfc8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forelesninger/Forelesning 09.02.2025.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Forelesning 09.02.2025"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e238ff38dac221ed",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e6d0b62923611e38",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Forelesninger/PDF/Forelesning05K.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Forelesning05K"
+              "title": "New tab"
             }
           }
         ]
@@ -45,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b2bfb034cc1342b1",
+    "id": "d146b81aa5af9acd",
     "type": "split",
     "children": [
       {
-        "id": "f97c2710944fc101",
+        "id": "8b5b02e849ded3b5",
         "type": "tabs",
         "children": [
           {
-            "id": "1a37baf8dfbfeb42",
+            "id": "5d3594cb482aab7c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -66,7 +44,7 @@
             }
           },
           {
-            "id": "a1586e294bd8979a",
+            "id": "98ef989a2c12d171",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +61,7 @@
             }
           },
           {
-            "id": "68fa7a4250df16c6",
+            "id": "09273bf2f2d77d70",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -99,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "b10563b906fce344",
+    "id": "3585af9733dd7b3e",
     "type": "split",
     "children": [
       {
-        "id": "1b0b051a9e9850cc",
+        "id": "41f18266335feddb",
         "type": "tabs",
         "children": [
           {
-            "id": "58ecbbcaced0ebab",
+            "id": "81d5f9cc29d7fae4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forelesninger/Forelesning 08.26.25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,11 +99,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Forelesning 08.26.25"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "bc8781e704fad895",
+            "id": "be6127e447ccf4af",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -139,7 +116,7 @@
             }
           },
           {
-            "id": "8864fca8f8ba4918",
+            "id": "a2caab0a644c247e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -154,7 +131,7 @@
             }
           },
           {
-            "id": "0e01734bf414fe13",
+            "id": "b58446bfd9a3e25f",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -166,29 +143,8 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "9e55c00763cb01cb",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
-          },
-          {
-            "id": "35c44a710cfeaa0e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,38 +153,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "587473f7df9758ba",
-  "lastOpenFiles": [
-    "Pasted image 20250902151748.png",
-    "Pasted image 20250902141922.png",
-    "Forelesninger/PDF/Forelesning05K.pdf",
-    "Forelesninger/Forelesning 09.02.2025.md",
-    "Øvinger/Øving 1/oving1.pdf",
-    "Forelesninger/PDF/Forelesning04K.pdf",
-    "Forelesninger/PDF/Ikke bekreftet 140705.crdownload",
-    "Forelesninger/PDF/Ikke bekreftet 655138.crdownload",
-    "Forelesninger/Forelesning 08.19.25.md",
-    "Øvinger/Øving 1/Notes.md",
-    "Øvinger/Øving 1/losning1.pdf",
-    "Øvinger/Øving 1/Øving 1 Oppgaver.md",
-    "Forelesninger/Forelesning 08.26.25.md",
-    "Øvinger/Øving 1/Ikke bekreftet 123719.crdownload",
-    "Øvinger/Øving 1",
-    "Forelesninger/PDF/Forelesning03K.pdf",
-    "Anvendelser/Anvendelser01.pdf",
-    "Bilder/Forelesninger/26.08.25 nr 1.png",
-    "Bilder/Forelesninger/Forelesning 19.08.25 bilde 1.png",
-    "Welcome.md"
-  ]
+  "active": "f5fcb0a0ea41dfc8",
+  "lastOpenFiles": []
 }

@@ -180,8 +180,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -211,8 +211,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "floating": {
@@ -244,7 +243,7 @@
         ],
         "direction": "vertical",
         "x": 0,
-        "y": 0,
+        "y": 32,
         "width": 768,
         "height": 912,
         "maximize": false,
@@ -254,10 +253,10 @@
   },
   "active": "2186ee2f0391ef1f",
   "lastOpenFiles": [
-    "Arbeidshefter/3-3/3-3-lf.pdf",
     "Arbeidshefter/3-3/Oppgaver.md",
-    "Forelesninger/Kap 3-3 02.09.25.md",
     "Arbeidshefter/3-3/3-3.pdf",
+    "Arbeidshefter/3-3/3-3-lf.pdf",
+    "Forelesninger/Kap 3-3 02.09.25.md",
     "Arbeidshefter/3-2/3-2.pdf",
     "Arbeidshefter/3-2/3-2-lf.pdf",
     "Pasted Image 20250906182132_281.png",
