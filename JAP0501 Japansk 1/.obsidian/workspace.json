@@ -25,16 +25,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forelesninger/28.08.25.md",
+                "file": "Forelesninger/11.09.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "28.08.25"
+              "title": "11.09.25"
             }
           },
           {
             "id": "ddb193f8df59daa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grammatikk/は、を、に、へ、で.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "は、を、に、へ、で"
+            }
+          },
+          {
+            "id": "8fd10807dfbcc0b3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "BB Info/OBLIGATORISKE OPPGAVER JAP0501 høst 2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "OBLIGATORISKE OPPGAVER JAP0501 høst 2025"
+            }
+          },
+          {
+            "id": "5cfc1f488df7f1a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -46,33 +72,9 @@
               "icon": "lucide-file",
               "title": "Nyttige ord & utryk"
             }
-          },
-          {
-            "id": "5bb0276373e06cf2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "BB Info/「サイレントウェイ式仮名導入表」教科書体[新推奨版].pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "「サイレントウェイ式仮名導入表」教科書体[新推奨版]"
-            }
-          },
-          {
-            "id": "ade42e8110d23732",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "BB Info/semesterplan høst 2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "semesterplan høst 2025"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,24 +246,26 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4ee728c97119c0ed",
+  "active": "ddb193f8df59daa5",
   "lastOpenFiles": [
-    "Bøker/Genki Textbook 3rd Ed.pdf",
-    "BB Info/「サイレントウェイ式仮名導入表」教科書体[新推奨版].pdf",
-    "Forelesninger/28.08.25.md",
     "Nyttige ord & utryk.md",
-    "BB Info/semesterplan høst 2025.pdf",
     "katakana stroke order.jpg",
-    "Ikke bekreftet 802072.crdownload",
-    "Forelesninger/25.08.25.md",
+    "BB Info/OBLIGATORISKE OPPGAVER JAP0501 høst 2025.pdf",
+    "Forelesninger/11.09.25.md",
+    "Grammatikk/は、を、に、へ、で.md",
+    "Bøker/Genki Textbook 3rd Ed.pdf",
+    "Grammatikk",
+    "BB Info/「サイレントウェイ式仮名導入表」教科書体[新推奨版].pdf",
     "Forelesninger/21.08.25.md",
+    "Forelesninger/25.08.25.md",
+    "ゴール.canvas",
+    "Forelesninger/28.08.25.md",
+    "BB Info/semesterplan høst 2025.pdf",
+    "Ikke bekreftet 802072.crdownload",
     "BB Info",
     "Bøker/Genki Workbook 3rd Ed.pdf",
-    "BB Info/OBLIGATORISKE OPPGAVER JAP0501 høst 2025.pdf",
     "BB Info/Countig Words.pdf",
     "msoB978.tmp",
-    "mso12A8.tmp",
-    "ゴール.canvas",
     "Hei Stella.md",
     "Hiragana Flashcards.md",
     "Welcome.md"

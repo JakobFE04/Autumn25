@@ -8,38 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "587473f7df9758ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forelesninger/Forelesning 09.02.2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Forelesning 09.02.2025"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e238ff38dac221ed",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e6d0b62923611e38",
+            "id": "78ba7e3529100c88",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Forelesninger/PDF/Forelesning05K.pdf"
+                "file": "Forelesninger/PDF/Forelesning09.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Forelesning05K"
+              "title": "Forelesning09"
+            }
+          },
+          {
+            "id": "d5714921ade77dbe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,6 +188,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -208,25 +200,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "587473f7df9758ba",
+  "active": "d5714921ade77dbe",
   "lastOpenFiles": [
+    "Forelesninger/PDF/Forelesning09.pdf",
+    "Forelesninger/PDF/Forelesning08.pdf",
+    "Forelesninger/PDF/Forelesning04.pdf",
+    "Øvinger/Øving 3/losning3.pdf",
+    "Øvinger/Øving 3/oving3.pdf",
+    "Forelesninger/PDF/Forelesning05(1).pdf",
+    "Forelesninger/PDF/Forelesning06(1).pdf",
+    "Forelesninger/PDF/Forelesning07.pdf",
+    "Forelesninger/PDF/Forelesning02.pdf",
+    "Øvinger/Øving 2/losning2.pdf",
+    "Øvinger/Øving 2/oving2.pdf",
+    "Forelesninger/Forelesning 09.02.2025.md",
     "Pasted image 20250902151748.png",
     "Pasted image 20250902141922.png",
-    "Forelesninger/PDF/Forelesning05K.pdf",
-    "Forelesninger/Forelesning 09.02.2025.md",
-    "Øvinger/Øving 1/oving1.pdf",
-    "Forelesninger/PDF/Forelesning04K.pdf",
-    "Forelesninger/PDF/Ikke bekreftet 140705.crdownload",
-    "Forelesninger/PDF/Ikke bekreftet 655138.crdownload",
     "Forelesninger/Forelesning 08.19.25.md",
     "Øvinger/Øving 1/Notes.md",
-    "Øvinger/Øving 1/losning1.pdf",
     "Øvinger/Øving 1/Øving 1 Oppgaver.md",
     "Forelesninger/Forelesning 08.26.25.md",
-    "Øvinger/Øving 1/Ikke bekreftet 123719.crdownload",
-    "Øvinger/Øving 1",
-    "Forelesninger/PDF/Forelesning03K.pdf",
-    "Anvendelser/Anvendelser01.pdf",
     "Bilder/Forelesninger/26.08.25 nr 1.png",
     "Bilder/Forelesninger/Forelesning 19.08.25 bilde 1.png",
     "Welcome.md"

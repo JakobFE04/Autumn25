@@ -3,3 +3,9 @@
 
 # Kap 3-2
 9, 14, 15
+
+# Kap 3-3
+12 og ut
+
+# Kap 3-4
+1, 2, 3, slutten

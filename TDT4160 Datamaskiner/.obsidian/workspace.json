@@ -8,46 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "244ab228d8a3643e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notater/Kap 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kap 2"
-            }
-          },
-          {
-            "id": "661f8a5847fefb43",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Planer/semesterplan-h25-tdt4160.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "semesterplan-h25-tdt4160"
-            }
-          },
-          {
-            "id": "3e0078ca88b1fe44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notater/Kap 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kap 2"
-            }
-          },
-          {
             "id": "c26c067cc7c52f7e",
             "type": "leaf",
             "state": {
@@ -58,24 +18,38 @@
               "icon": "lucide-file-text",
               "title": "Datdig Pensumbok + 36"
             }
+          },
+          {
+            "id": "6b75866fc6a8ef39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forelesninger/Forelesning 09.16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forelesning 09.16"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
-        "id": "cf1ac1f3c6cd04d4",
+        "id": "af6029d19ed72a5f",
         "type": "tabs",
         "children": [
           {
-            "id": "e115a4bd5089a15e",
+            "id": "91aa7263ee1be9ae",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Forelesninger/PDF/tdt4160-f3-instruksjoner2(2).pdf"
+                "file": "Forelesninger/PDF/tdt4160-f5-alu(4).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "tdt4160-f3-instruksjoner2(2)"
+              "title": "tdt4160-f5-alu(4)"
             }
           }
         ]
@@ -147,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fe174204fe5237ac",
@@ -248,6 +223,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -259,17 +235,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e0078ca88b1fe44",
+  "active": "6b75866fc6a8ef39",
   "lastOpenFiles": [
-    "Forelesninger/Forelesning 09.02.md",
-    "Bilder/Forelesninger/Pasted image 20250902114443.png",
-    "Forelesninger/PDF/tdt4160-f3-instruksjoner2(2).pdf",
+    "Forelesninger/PDF/tdt4160-f5-alu(4).pdf",
+    "Forelesninger/Forelesning 09.16.md",
+    "Pasted image 20250916105222.png",
+    "Pasted image 20250916105105.png",
+    "Forelesninger/PDF/tdt4160-f4-enkelsykel(3).pdf",
+    "Forelesninger/Forelesning 09.09.md",
     "Datdig Pensumbok + 36.pdf",
+    "Praktiske Øvnger/Øving 1.md",
+    "Forelesninger/PDF/tdt4160-f3-instruksjoner2(2).pdf",
+    "Planer/semesterplan-h25-tdt4160.pdf",
     "Notater/Kap 2.md",
     "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25-v1.pdf",
-    "Forelesninger/PDF/Ikke bekreftet 688199.crdownload",
+    "Notater/Kap 1.md",
+    "Notater/Kap 3.md",
     "Boken.pdf",
-    "Planer/semesterplan-h25-tdt4160.pdf",
+    "Praktiske Øvnger",
+    "Forelesninger/Forelesning 09.02.md",
+    "Bilder/Forelesninger/Pasted image 20250902114443.png",
+    "Forelesninger/PDF/Ikke bekreftet 688199.crdownload",
     "Bilder/Notater/Kap 2/Kap 2. Risc-V instruction format.png",
     "Bilder/Notater/Kap 2/Kap 2.23 Alle risc-v instruksjoner so far.png",
     "Bilder/Notater/Kap 2/Kap 2.10 Risc-v instruction enkoding.png",
@@ -277,16 +263,10 @@
     "Bilder/Notater/Kap 2/Kap 2.9 Ascii values.png",
     "Bilder/Notater/Kap 2/Register tabell.png",
     "Bilder/Forelesninger/Pasted image 20250826112222.png",
-    "Bilder/Forelesninger/Pasted image 20250826113944.png",
-    "Bilder/Forelesninger/Pasted image 20250826102101.png",
-    "Notater/Kap 1.md",
     "Forelesninger/Forelesning 08.26.md",
     "Forelesninger/PDF/tdt4160-f1-intro.pdf",
-    "Bilder/Notater/Kap 2",
     "Oppgaver/Kap 1.md",
     "Forelesninger/Forelesning 08.19.md",
-    "Oppgaver",
-    "Bilder/Forelesninger",
     "2025-07-19.md",
     "Welcome.md"
   ]
