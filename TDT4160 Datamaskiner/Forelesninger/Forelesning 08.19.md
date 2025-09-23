@@ -1,5 +1,5 @@
 # Introduksjon og ytelse (F1)
-![[tdt4160-f1-intro.pdf]]
+![[Jukse kort.pdf]]
 
 Skal lære om og få forståelse for hvordan å bygge effektive datamaskiner.
 - Fokus på fundamentale prinsipper

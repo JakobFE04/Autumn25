@@ -11,6 +11,20 @@
             "id": "bc799ada1c7c9fb7",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forelesninger/Kap 3-6 23.09.25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kap 3-6 23.09.25"
+            }
+          },
+          {
+            "id": "0cbd9044afb4d92e",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
                 "file": "Arbeidshefter/3-6/3-6.pdf"
@@ -43,7 +57,8 @@
               "title": "3-5"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,12 +228,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bc799ada1c7c9fb7",
+  "active": "fac6da2978ab9047",
   "lastOpenFiles": [
-    "Arbeidshefter/3-5/3-5.pdf",
+    "Arbeidshefter/3-1/Oppgaver.md",
+    "Forelesninger/Kap 3-6 23.09.25.md",
+    "Bilder/Forelesninger/Pasted image 20250923105003.png",
     "Arbeidshefter/3-6/3-6.pdf",
-    "Arbeidshefter/3-7/3-7.pdf",
+    "Arbeidshefter/3-5/3-5.pdf",
     "Arbeidshefter/3-6/3-6-lf.pdf",
+    "Bilder/Forelesninger/23.09.25 Bilde nr 1.jpg",
+    "Arbeidshefter/3-7/3-7.pdf",
     "Kapitel Notater/Kap 3-1 FLUENS STOLTE GANG OVER RULLEGARDINEN.md",
     "Kap 3-1 FLUENS STOLTE GANG OVER RULLEGARDINEN.pdf",
     "Arbeidshefter/3-3/3-3.pdf",
@@ -229,7 +248,6 @@
     "Arbeidshefter/3-5/3-5-lf.pdf",
     "Arbeidshefter/3-5/Oppgaver 1.md",
     "Oppgaver å dra tilbake til.md",
-    "Arbeidshefter/3-4/3-4-lf.pdf",
     "Bilder/Forelesninger/Pasted image 20250916094950.png",
     "Bilder/Forelesninger/Pasted image 20250916094929.png",
     "Bilder/Forelesninger/16.09.25 Bilde nr 5.jpg",
@@ -238,16 +256,13 @@
     "Bilder/Forelesninger/16.09.25 Bilde nr 4.jpg",
     "Bilder/Forelesninger/16.09.25 Bilde nr 3.jpg",
     "Bilder/Forelesninger/16.09.25 Bilde nr 2.jpg",
-    "Bilder/Forelesninger/16.09.25 Bilde nr 1.jpg",
     "Forelesninger/Kap 3-3 02.09.25.md",
     "Forelesninger/Kap 3-4 09.09.25.md",
     "Arbeidshefter/3-4/Oppgaver 1 1.md",
     "Arbeidshefter/3-3/Oppgaver.md",
     "Forelesninger/Kap 3-1 19.08.25.md",
-    "Bilder/Forelesninger/09.09.25 Bilde nr 5.jpg",
     "Forelesninger/Kap 3-2 26.08.25.md",
     "Arbeidshefter/3-2/Oppgaver.md",
-    "Arbeidshefter/3-1/Oppgaver.md",
     "Arbeidshefter/3-13/Oppgaver 1.md",
     "Arbeidshefter/3-12/Oppgaver 1.md",
     "Arbeidshefter/3-11/Oppgaver 1.md",

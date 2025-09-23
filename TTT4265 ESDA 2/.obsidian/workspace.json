@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "b144fca2a13dea08",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Designnotat/Designnotat VI/D6.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "D6"
-            }
-          },
-          {
             "id": "676d958b814769c5",
             "type": "leaf",
             "state": {
@@ -66,9 +54,23 @@
               "icon": "lucide-file-text",
               "title": "Designnotat_V"
             }
+          },
+          {
+            "id": "72ef428bf2440048",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Video notater/T4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "T4"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,13 +218,25 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "b144fca2a13dea08",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Designnotat/Designnotat VI/D6.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "D6"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 891.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,8 +252,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "676d958b814769c5",
+  "active": "0de7f4e05cafbe33",
   "lastOpenFiles": [
+    "Designnotat/Designnotat VI/Designnotat_VI.pdf",
+    "Øvinger/Øving 12/Øving 12.pdf",
+    "Video notater/T4.md",
+    "Designnotat/Designnotat VI/Åpen løkke 100k.jpg",
+    "Designnotat/Designnotat VI/Inverterende forsterker 100.jpg",
+    "Designnotat/Designnotat VI/Inverterende forsterker 100k.jpg",
+    "Video notater/T3.md",
+    "Designnotat/Designnotat VI/D6.pdf",
+    "Video notater/T5.md",
+    "Designnotat/Designnotat VI/Notat.md",
+    "Øvinger/Øving 11/oving_11.pdf",
+    "Designnotat/Designnotat V/Designnotat_V.pdf",
+    "Øvinger/Øving 12/oving_12.pdf",
     "Designnotat/Designnotat VI/100k ohm fourier.png",
     "Designnotat/Designnotat VI/100k ohm fourier.csv",
     "Designnotat/Designnotat VI/100 ohm fourier.csv",
@@ -250,30 +277,18 @@
     "Designnotat/Designnotat VI/Tilbakekobling 100 ohm scope.csv",
     "Designnotat/Designnotat VI/Tilbakekobling 100kohm scope.csv",
     "Designnotat/Designnotat VI/Tilbakekobling 100kohm scope.png",
-    "Designnotat/Designnotat VI/Tilbakekobling 100kohm fourier.csv",
     "Designnotat/Designnotat VI/Tilbakekobling 100kohm fourier.png",
-    "Designnotat/Designnotat VI/D6.pdf",
-    "Øvinger/Øving 12/oving_12.pdf",
-    "Designnotat/Designnotat V/Designnotat_V.pdf",
-    "Øvinger/Øving 12/Øving 12.pdf",
     "Designnotat/Designnotat VI/Åpen_krets_100k_ohm_forsterkning.png",
-    "Designnotat/Designnotat VI/Åpen_krets_100_ohm_forsterkning.png",
     "Designnotat/Designnotat V/D5.md",
     "Video notater/T2.md",
     "Øvinger/Øving 11/Øving 11.md",
     "Øvinger/Øving 12/Øving 12.md",
     "Kvitteringer.md",
-    "Video notater/T5.md",
-    "Bilder/Øvinger/Øving 12/Pasted image 20250917135710.png",
-    "Bilder/Øvinger/Øving 12/Pasted image 20250917135643.png",
-    "Bilder/Øvinger/Øving 12/Pasted image 20250917135017.png",
-    "Video notater/T4.md",
     "Video notater/T4/Untitled.md",
     "Designnotat/Designnotat V/Drawing 2025-09-03 08.59.11.excalidraw.md",
     "Forelesninger/Forelesning 09.03.25.md",
     "Øvinger/Øving 10/Oppgaver Øving 10.md",
     "Forelesninger/Forelesning 08.27.25.md",
-    "Video notater/T3.md",
     "Øvinger/Øving 9/Oppgaver Øving 9.md",
     "Forelesninger/Forelesning 08.20.25.md",
     "Welcome.md"
