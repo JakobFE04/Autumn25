@@ -23,7 +23,7 @@ Komplette modellen av elektromagnetisme av James Clerk Maxwell og forkortet av O
 
 - E er elektriske feltet
 - B er magnetiske feltet
-- $\rho$ er en gitt ladningstetthet
+                 - $\rho$ er en gitt ladningstetthet
 - J er en gitt strømtetthet
 - c er lyshastigheten i vakuum
 - $\epsilon_{0}$ er vakuumpermittivitetn.
