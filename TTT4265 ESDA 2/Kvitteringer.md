@@ -4,5 +4,5 @@ D5: c970dd29489540f0b04b8964821aa665
 
 Øving 12: 9487e28b304c42d78805c6ebdac4222a
 
-
-DAD
+Øving 13: 7a66c0a228494609a10aa46410f24db8
+simon var her koselig

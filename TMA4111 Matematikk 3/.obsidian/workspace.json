@@ -11,18 +11,56 @@
             "id": "bc799ada1c7c9fb7",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Arbeidshefter/3-7/3-7.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3-7"
+            }
+          },
+          {
+            "id": "73c5c8556e434e83",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Forelesninger/Kap 3-6 23.09.25.md",
+                "file": "Oppgaver å dra tilbake til.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kap 3-6 23.09.25"
+              "title": "Oppgaver å dra tilbake til"
             }
           },
           {
-            "id": "0cbd9044afb4d92e",
+            "id": "64063e97e940b356",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Arbeidshefter/3-2/3-2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3-2"
+            }
+          },
+          {
+            "id": "592e9dc657e9ac42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forelesninger/Kap 3-7 30.09.25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kap 3-7 30.09.25"
+            }
+          },
+          {
+            "id": "322f342a2a819640",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -34,19 +72,7 @@
             }
           },
           {
-            "id": "5628b3d2c1f7e570",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Arbeidshefter/3-6/3-6-lf.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "3-6-lf"
-            }
-          },
-          {
-            "id": "fac6da2978ab9047",
+            "id": "728ffb0104f64597",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -58,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,40 +254,41 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fac6da2978ab9047",
+  "active": "73c5c8556e434e83",
   "lastOpenFiles": [
-    "Arbeidshefter/3-1/Oppgaver.md",
-    "Forelesninger/Kap 3-6 23.09.25.md",
-    "Bilder/Forelesninger/Pasted image 20250923105003.png",
-    "Arbeidshefter/3-6/3-6.pdf",
     "Arbeidshefter/3-5/3-5.pdf",
-    "Arbeidshefter/3-6/3-6-lf.pdf",
-    "Bilder/Forelesninger/23.09.25 Bilde nr 1.jpg",
+    "Oppgaver å dra tilbake til.md",
     "Arbeidshefter/3-7/3-7.pdf",
+    "Arbeidshefter/3-7/3-7-lf.pdf",
+    "Arbeidshefter/3-6/3-6.pdf",
+    "Forelesninger/Kap 3-3 02.09.25.md",
+    "Forelesninger/Kap 3-7 30.09.25.md",
+    "Arbeidshefter/3-2/3-2.pdf",
+    "Forelesninger/Kap 3-5 16.09.25.md",
+    "Forelesninger/Kap 3-4 09.09.25.md",
+    "Forelesninger/Kap 3-6 23.09.25.md",
+    "Forelesninger/Kap 3-1 19.08.25.md",
+    "Bilder/Forelesninger/Pasted image 20250930094426.png",
+    "Bilder/Forelesninger/30.09.25 Bilde nr 3.jpg",
+    "Bilder/Forelesninger/30.09.25 Bilde nr 2.jpg",
+    "Bilder/Forelesninger/30.09.25 Bilde nr 1.jpg",
+    "Forelesninger/Kap 3-2 26.08.25.md",
+    "Arbeidshefter/3-1/3-1.pdf",
+    "Arbeidshefter/3-6/3-6-lf.pdf",
+    "Arbeidshefter/3-1/Oppgaver.md",
+    "Bilder/Forelesninger/Pasted image 20250923105003.png",
+    "Bilder/Forelesninger/23.09.25 Bilde nr 1.jpg",
     "Kapitel Notater/Kap 3-1 FLUENS STOLTE GANG OVER RULLEGARDINEN.md",
     "Kap 3-1 FLUENS STOLTE GANG OVER RULLEGARDINEN.pdf",
     "Arbeidshefter/3-3/3-3.pdf",
     "Arbeidshefter/3-4/3-4.pdf",
-    "Arbeidshefter/3-1/3-1.pdf",
-    "Arbeidshefter/3-1/3-1-lf.pdf",
-    "Forelesninger/Kap 3-5 16.09.25.md",
-    "Arbeidshefter/3-5/3-5-lf.pdf",
     "Arbeidshefter/3-5/Oppgaver 1.md",
-    "Oppgaver å dra tilbake til.md",
     "Bilder/Forelesninger/Pasted image 20250916094950.png",
     "Bilder/Forelesninger/Pasted image 20250916094929.png",
     "Bilder/Forelesninger/16.09.25 Bilde nr 5.jpg",
     "Bilder/Notater/Pasted Image 20250906182132_281.png",
-    "Bilder/Forelesninger/Pasted image 20250916093216.png",
-    "Bilder/Forelesninger/16.09.25 Bilde nr 4.jpg",
-    "Bilder/Forelesninger/16.09.25 Bilde nr 3.jpg",
-    "Bilder/Forelesninger/16.09.25 Bilde nr 2.jpg",
-    "Forelesninger/Kap 3-3 02.09.25.md",
-    "Forelesninger/Kap 3-4 09.09.25.md",
     "Arbeidshefter/3-4/Oppgaver 1 1.md",
     "Arbeidshefter/3-3/Oppgaver.md",
-    "Forelesninger/Kap 3-1 19.08.25.md",
-    "Forelesninger/Kap 3-2 26.08.25.md",
     "Arbeidshefter/3-2/Oppgaver.md",
     "Arbeidshefter/3-13/Oppgaver 1.md",
     "Arbeidshefter/3-12/Oppgaver 1.md",

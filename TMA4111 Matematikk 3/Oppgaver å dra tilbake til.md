@@ -9,3 +9,13 @@
 
 # Kap 3-4
 1, 2, 3, slutten
+
+# 3.5
+15 men fuck det er kjemi
+
+# 3.6 
+6, 12
+
+# 3.7
+15-17 evt
+

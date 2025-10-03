@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "e018f37d73f113d3",
-        "type": "tabs",
-        "dimension": 41.510416666666664,
-        "children": [
-          {
-            "id": "fcd51cd66966bf07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forelesninger/Forelesning 09.23.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Forelesning 09.23"
-            }
-          }
-        ]
-      },
-      {
         "id": "c3b326c6e6a526a9",
         "type": "tabs",
-        "dimension": 58.48958333333333,
         "children": [
           {
             "id": "c26c067cc7c52f7e",
@@ -42,19 +20,33 @@
             }
           },
           {
-            "id": "adf31a82b5a6b9fd",
+            "id": "a0b4de6e9a1d7ea5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forelesninger/Forelesning 09.30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forelesning 09.30"
+            }
+          },
+          {
+            "id": "f4ffaeee6595353d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Forelesninger/PDF/tdt4160-f6-flyttall-og-flersykelprosessor(1).pdf"
+                "file": "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25-v1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "tdt4160-f6-flyttall-og-flersykelprosessor(1)"
+              "title": "laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25-v1"
             }
           },
           {
-            "id": "d6cb2b4939ae495a",
+            "id": "3cde9077bb0e6f24",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -63,6 +55,20 @@
               },
               "icon": "lucide-file-text",
               "title": "semesterplan-h25-tdt4160"
+            }
+          },
+          {
+            "id": "31fa5fa33a113590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notater/Kap 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kap 4"
             }
           }
         ],
@@ -135,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fe174204fe5237ac",
@@ -249,36 +254,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcd51cd66966bf07",
+  "active": "a0b4de6e9a1d7ea5",
   "lastOpenFiles": [
+    "Datdig Pensumbok + 36.pdf",
+    "Forelesninger/PDF/tdt4160-f7-samlebaand(4).pdf",
+    "Forelesninger/Forelesning 09.30.md",
+    "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25-v1.pdf",
+    "Notater/Kap 4.md",
+    "Praktiske Øvnger/Øving 2/Øving 2.2.md",
+    "Praktiske Øvnger/Øving 2/Øving 2.1.md",
+    "Praktiske Øvnger/Øving 2",
+    "Planer/semesterplan-h25-tdt4160.pdf",
     "Forelesninger/PDF/tdt4160-f6-flyttall-og-flersykelprosessor(1).pdf",
+    "Bilder/Notater/Kap 4",
+    "Bilder/Notater/Kap 4/Kap 4.5 figur 4.5.4.png",
     "Forelesninger/Forelesning 09.23.md",
     "Bilder/Forelesninger/Pasted image 20250923104936.png",
     "Bilder/Forelesninger/Pasted image 20250923103246.png",
     "Bilder/Forelesninger/Pasted image 20250923102248.png",
-    "Datdig Pensumbok + 36.pdf",
     "Jukse kort.pdf",
-    "Planer/semesterplan-h25-tdt4160.pdf",
-    "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25-v1.pdf",
     "Boken.pdf",
     "Forelesninger/Forelesning 09.16.md",
     "Forelesninger/PDF/tdt4160-f5-alu(4).pdf",
     "Bilder/Forelesninger/Pasted image 20250916105222.png",
     "Bilder/Forelesninger/Pasted image 20250916105105.png",
-    "Forelesninger/PDF/tdt4160-f4-enkelsykel(3).pdf",
     "Forelesninger/Forelesning 09.09.md",
     "Praktiske Øvnger/Øving 1.md",
-    "Forelesninger/PDF/tdt4160-f3-instruksjoner2(2).pdf",
     "Notater/Kap 2.md",
     "Notater/Kap 1.md",
     "Notater/Kap 3.md",
-    "Praktiske Øvnger",
     "Forelesninger/Forelesning 09.02.md",
     "Bilder/Forelesninger/Pasted image 20250902114443.png",
     "Bilder/Notater/Kap 2/Kap 2. Risc-V instruction format.png",
     "Bilder/Notater/Kap 2/Kap 2.23 Alle risc-v instruksjoner so far.png",
     "Bilder/Notater/Kap 2/Kap 2.10 Risc-v instruction enkoding.png",
-    "Bilder/Notater/Kap 2/Kap 2.10 Risc-v addressering.png",
     "Forelesninger/Forelesning 08.26.md",
     "Oppgaver/Kap 1.md",
     "Forelesninger/Forelesning 08.19.md",

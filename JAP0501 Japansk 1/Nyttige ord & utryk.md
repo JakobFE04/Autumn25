@@ -31,4 +31,12 @@
 | でんわばんごうは何ばんですか。            | Hva er telefon nummeret ditt?                            |
 | ごしゅうしんは。                   | Hvor kommer du fra?                                      |
 | おしごとは。                     | Whats your ocupations?                                   |
+| まよなか                       | Midnatt                                                  |
+| れ時                         | --\|\|--                                                 |
+| しょうご                       | Noon                                                     |
+| 一時間                        | 1 time                                                   |
+| まち                         | wait                                                     |
+| がくぶ                        | Fakultet                                                 |
+| しがい                        | Sentrum, trondheim sentrum f.eks.                        |
+| かいがありました                   | It was rewarding (worth it)                              |
 |                            |                                                          |
