@@ -8,47 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "54afefb7c5887e16",
+            "id": "69e3b6a2b5ed5109",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Øvinger/Øving 13/Øving 13.md",
+                "file": "Øvinger/Øving 14/Øving 14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Øving 13"
+              "title": "Øving 14"
             }
           },
           {
-            "id": "6451c5fe112cdf41",
+            "id": "0a66de9d666b628e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Øvinger/Øving 13/Drawing.md"
+                "file": "Bilder/Øvinger/Øving 14/Oppgave 3.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing"
-            }
-          },
-          {
-            "id": "2551f0f79bd376ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kvitteringer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kvitteringer"
+              "title": "Oppgave 3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,36 +215,78 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "fa2c31f9b20e7f13",
+  "floating": {
+    "id": "b753a23febc6c22b",
+    "type": "floating",
+    "children": [
+      {
+        "id": "de2ee9c764bfc629",
+        "type": "window",
+        "children": [
+          {
+            "id": "a8aa7489ccc62c63",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2c7bea0686558244",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Øvinger/Øving 14/ESDA_II___Øving_14.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "ESDA_II___Øving_14"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 147,
+        "y": 186,
+        "width": 1717,
+        "height": 1069,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "69e3b6a2b5ed5109",
   "lastOpenFiles": [
-    "Kvitteringer.md",
+    "Øvinger/Øving 14/ESDA_II___Øving_14.pdf",
+    "Øvinger/Øving 14/Øving 14.md",
+    "Øvinger/Øving 14/Øving 14.pdf",
+    "Bilder/Øvinger/Øving 14/Oppgave 3.md",
+    "Bilder/Øvinger/Øving 14/Del 3 opgv 1.md",
+    "Bilder/Øvinger/Øving 14/Pasted image 20251007105205.png",
+    "Bilder/Øvinger/Øving 14/Pasted image 20251007104728.png",
+    "Bilder/Øvinger/Øving 14/Pasted image 20251007104109.png",
+    "Bilder/Øvinger/Øving 14/Pasted image 20251007103501.png",
+    "Bilder/Øvinger/Øving 14/Pasted image 20251007102632.png",
+    "Bilder/Øvinger/Øving 14/Pasted image 20251007102239.png",
+    "Bilder/Øvinger/Øving 14/Pasted image 20251006192353.png",
+    "Bilder/Øvinger/Øving 14/Pasted image 20251006192213.png",
+    "Bilder/Øvinger/Øving 14/Pasted image 20251006191330.png",
+    "Bilder/Øvinger/Øving 14/Pasted image 20251006191315.png",
+    "Øvinger/Øving 14/opgv 2 del 1 c)",
+    "opgv 2 del 1 c).md",
+    "Bilder/Øvinger/Øving 14/opgv 2 del 1 c)",
+    "Bilder/Øvinger/Øving 14",
+    "Bilder/Øvinger/Øving 14.md",
     "Øvinger/Øving 13/Øving 13.md",
-    "Øvinger/Øving 13/Øving 13.pdf",
     "Øvinger/Øving 13/Drawing.md",
-    "Øvinger/Øving 13/Drawing.pdf",
+    "Øvinger/Øving 14",
     "Øvinger/Øving 13/ESDA_II___Øving_13.pdf",
+    "Kvitteringer.md",
+    "Øvinger/Øving 13/Øving 13.pdf",
+    "Øvinger/Øving 13/Drawing.pdf",
     "Stella hjelp.md",
     "aktivitetsplan 2025.pdf",
-    "Øvinger/Øving 12/Øving 12.pdf",
     "Video notater/T4.md",
-    "Øvinger/Øving 12/oving_12.pdf",
-    "Designnotat/Designnotat VI/Designnotat_VI.pdf",
-    "Designnotat/Designnotat VI/Åpen løkke 100k.jpg",
-    "Designnotat/Designnotat VI/Inverterende forsterker 100.jpg",
-    "Designnotat/Designnotat VI/Inverterende forsterker 100k.jpg",
     "Video notater/T3.md",
-    "Designnotat/Designnotat VI/D6.pdf",
     "Video notater/T5.md",
     "Designnotat/Designnotat VI/Notat.md",
-    "Øvinger/Øving 11/oving_11.pdf",
-    "Designnotat/Designnotat V/Designnotat_V.pdf",
-    "Designnotat/Designnotat VI/100k ohm fourier.png",
-    "Designnotat/Designnotat VI/100 ohm fourier.png",
-    "Designnotat/Designnotat VI/Tilbakekobling 100 ohm fourier.png",
-    "Designnotat/Designnotat VI/Tilbakekobling 100 ohm scope.png",
-    "Designnotat/Designnotat VI/Tilbakekobling 100kohm scope.png",
-    "Designnotat/Designnotat VI/Tilbakekobling 100kohm fourier.png",
-    "Designnotat/Designnotat VI/Åpen_krets_100k_ohm_forsterkning.png",
     "Designnotat/Designnotat V/D5.md",
     "Video notater/T2.md",
     "Øvinger/Øving 11/Øving 11.md",
