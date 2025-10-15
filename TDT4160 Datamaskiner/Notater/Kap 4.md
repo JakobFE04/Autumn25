@@ -5,3 +5,6 @@
 If the stages are perfectly balanced, then the time between instructions on the pipelined processor—assuming ideal conditions—is equal to 
 $$\text{Time betweeninstructions}_{\text{pipelined}} = \frac{\text{Time betweeninstructions}_{\text{nonpipelined}}}{\text{number of pipe stages}}$$
 
+# 4.7
+![[4.7 image 1.png]]
+![[4.7 image 2.png]]

@@ -8,29 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "69e3b6a2b5ed5109",
+            "id": "48e107ec25fe38eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Øvinger/Øving 14/Øving 14.md",
+                "file": "Øvinger/Øving 15/Øving 15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Øving 14"
+              "title": "Øving 15"
             }
           },
           {
-            "id": "0a66de9d666b628e",
+            "id": "e5853b62b42aa0eb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Øvinger/Øving 15/ESDA_II_Øving_15.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ESDA_II_Øving_15"
+            }
+          },
+          {
+            "id": "16057dbe4bc87a35",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Bilder/Øvinger/Øving 14/Oppgave 3.md"
+                "file": "Øvinger/Øving 15/Øving 15 Tegning.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Oppgave 3"
+              "title": "Øving 15 Tegning"
+            }
+          },
+          {
+            "id": "0a393eb6c3645bf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Video notater/F2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "F2"
             }
           }
         ]
@@ -215,60 +241,30 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "b753a23febc6c22b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "de2ee9c764bfc629",
-        "type": "window",
-        "children": [
-          {
-            "id": "a8aa7489ccc62c63",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "2c7bea0686558244",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Øvinger/Øving 14/ESDA_II___Øving_14.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "ESDA_II___Øving_14"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 147,
-        "y": 186,
-        "width": 1717,
-        "height": 1069,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "69e3b6a2b5ed5109",
+  "active": "48e107ec25fe38eb",
   "lastOpenFiles": [
-    "Øvinger/Øving 14/ESDA_II___Øving_14.pdf",
+    "Øvinger/Øving 15/Øving 15.pdf",
+    "Øvinger/Øving 15/Øving 15 Tegning.md",
+    "Øvinger/Øving 15/ESDA_II_Øving_15.pdf",
+    "Pasted Image 20251015115021_581.png",
+    "Øvinger/Øving 15/Øving 15.md",
+    "Video notater/F2.md",
+    "Pasted image 20251015112634.png",
+    "Pasted Image 20251015110317_246.png",
+    "Pasted Image 20251015110229_522.png",
+    "Pasted Image 20251015104441_237.png",
+    "Pasted Image 20251015094927_861.png",
+    "Bilder/Video notater/F2 6.png",
+    "Bilder/Video notater/F2 5.png",
+    "Bilder/Video notater/F2 4.png",
+    "Bilder/Video notater/F2 3.png",
+    "aktivitetsplan 2025.pdf",
     "Øvinger/Øving 14/Øving 14.md",
-    "Øvinger/Øving 14/Øving 14.pdf",
+    "Øvinger/Øving 14/ESDA_II___Øving_14.pdf",
+    "Øvinger/Øving 15",
     "Bilder/Øvinger/Øving 14/Oppgave 3.md",
+    "Øvinger/Øving 14/Øving 14.pdf",
     "Bilder/Øvinger/Øving 14/Del 3 opgv 1.md",
-    "Bilder/Øvinger/Øving 14/Pasted image 20251007105205.png",
-    "Bilder/Øvinger/Øving 14/Pasted image 20251007104728.png",
-    "Bilder/Øvinger/Øving 14/Pasted image 20251007104109.png",
-    "Bilder/Øvinger/Øving 14/Pasted image 20251007103501.png",
-    "Bilder/Øvinger/Øving 14/Pasted image 20251007102632.png",
-    "Bilder/Øvinger/Øving 14/Pasted image 20251007102239.png",
-    "Bilder/Øvinger/Øving 14/Pasted image 20251006192353.png",
-    "Bilder/Øvinger/Øving 14/Pasted image 20251006192213.png",
-    "Bilder/Øvinger/Øving 14/Pasted image 20251006191330.png",
-    "Bilder/Øvinger/Øving 14/Pasted image 20251006191315.png",
     "Øvinger/Øving 14/opgv 2 del 1 c)",
     "opgv 2 del 1 c).md",
     "Bilder/Øvinger/Øving 14/opgv 2 del 1 c)",
@@ -279,10 +275,7 @@
     "Øvinger/Øving 14",
     "Øvinger/Øving 13/ESDA_II___Øving_13.pdf",
     "Kvitteringer.md",
-    "Øvinger/Øving 13/Øving 13.pdf",
-    "Øvinger/Øving 13/Drawing.pdf",
     "Stella hjelp.md",
-    "aktivitetsplan 2025.pdf",
     "Video notater/T4.md",
     "Video notater/T3.md",
     "Video notater/T5.md",
@@ -295,9 +288,6 @@
     "Designnotat/Designnotat V/Drawing 2025-09-03 08.59.11.excalidraw.md",
     "Forelesninger/Forelesning 09.03.25.md",
     "Øvinger/Øving 10/Oppgaver Øving 10.md",
-    "Forelesninger/Forelesning 08.27.25.md",
-    "Øvinger/Øving 9/Oppgaver Øving 9.md",
-    "Forelesninger/Forelesning 08.20.25.md",
-    "Welcome.md"
+    "Forelesninger/Forelesning 08.27.25.md"
   ]
 }
