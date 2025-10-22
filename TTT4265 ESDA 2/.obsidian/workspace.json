@@ -4,59 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "6a4414e22267117d",
+        "id": "a2d89b70c8d64bf2",
         "type": "tabs",
         "children": [
           {
-            "id": "48e107ec25fe38eb",
+            "id": "a196ddfe085e56c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Øvinger/Øving 15/Øving 15.md",
+                "file": "Designnotat/Designnotat VII/Notat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Øving 15"
+              "title": "Notat"
             }
           },
           {
-            "id": "e5853b62b42aa0eb",
+            "id": "751d0b3cd6c21995",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Øvinger/Øving 15/ESDA_II_Øving_15.pdf"
+                "file": "Designnotat/Designnotat VII/D7.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "ESDA_II_Øving_15"
+              "title": "D7"
             }
           },
           {
-            "id": "16057dbe4bc87a35",
+            "id": "375343e02ce01cb2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Øvinger/Øving 15/Øving 15 Tegning.md"
+                "file": "Designnotat/Designnotat VII/Spesifikasjoner_D7.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "Øving 15 Tegning"
-            }
-          },
-          {
-            "id": "0a393eb6c3645bf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Video notater/F2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "F2"
+              "icon": "lucide-file-text",
+              "title": "Spesifikasjoner_D7"
             }
           }
         ]
@@ -241,39 +227,40 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "48e107ec25fe38eb",
+  "active": "a196ddfe085e56c1",
   "lastOpenFiles": [
-    "Øvinger/Øving 15/Øving 15.pdf",
-    "Øvinger/Øving 15/Øving 15 Tegning.md",
-    "Øvinger/Øving 15/ESDA_II_Øving_15.pdf",
-    "Pasted Image 20251015115021_581.png",
-    "Øvinger/Øving 15/Øving 15.md",
+    "Designnotat/Designnotat VII/Kode/Plot stor.jpg",
+    "Designnotat/Designnotat VII/Kode/Plot zoom.jpg",
+    "Designnotat/Designnotat VII/Kode/Plot zoom.pg",
+    "Designnotat/Designnotat VII/Kode/Plot. zoomjpg",
+    "Designnotat/Designnotat VII/Kode/Plot.jpg",
+    "Designnotat/Designnotat VII/Kode/Plot v11.jpg",
+    "Designnotat/Designnotat VII/Kode/Plot v1.jpg",
+    "Designnotat/Designnotat VII/Kode/Network 2 copy.csv",
+    "Designnotat/Designnotat VII/Kode/Network copy.csv",
+    "Designnotat/Designnotat VII/D7.pdf",
+    "Designnotat/Designnotat VII/Notat.md",
+    "Designnotat/Designnotat VII/Kode/Plotting.py",
+    "Pasted image 20251022105833.png",
+    "Designnotat/Designnotat VII/Kode/Network 2.csv",
+    "Designnotat/Designnotat VII/Kode/Network.csv",
+    "Designnotat/Designnotat VII/Spesifikasjoner_D7.pdf",
+    "Designnotat/Designnotat VII/Network og suplies.dwf3work.temp",
+    "Designnotat/Designnotat VII/Bilder/Antialiasfilter tegning ADC.png",
+    "Designnotat/Designnotat VII/Bilder/Systemkrav figur.png",
     "Video notater/F2.md",
-    "Pasted image 20251015112634.png",
-    "Pasted Image 20251015110317_246.png",
-    "Pasted Image 20251015110229_522.png",
-    "Pasted Image 20251015104441_237.png",
-    "Pasted Image 20251015094927_861.png",
-    "Bilder/Video notater/F2 6.png",
-    "Bilder/Video notater/F2 5.png",
-    "Bilder/Video notater/F2 4.png",
-    "Bilder/Video notater/F2 3.png",
-    "aktivitetsplan 2025.pdf",
+    "Øvinger/Øving 15/Øving 15 Tegning.md",
+    "Øvinger/Øving 15/Øving 15.md",
+    "Bilder/Øvinger/Øving 15/Pasted Image 20251015115021_581.png",
+    "Bilder/Øvinger/Øving 15/Pasted Image 20251015110317_246.png",
+    "Bilder/Øvinger/Øving 15/Pasted Image 20251015110229_522.png",
     "Øvinger/Øving 14/Øving 14.md",
-    "Øvinger/Øving 14/ESDA_II___Øving_14.pdf",
-    "Øvinger/Øving 15",
     "Bilder/Øvinger/Øving 14/Oppgave 3.md",
-    "Øvinger/Øving 14/Øving 14.pdf",
     "Bilder/Øvinger/Øving 14/Del 3 opgv 1.md",
-    "Øvinger/Øving 14/opgv 2 del 1 c)",
     "opgv 2 del 1 c).md",
-    "Bilder/Øvinger/Øving 14/opgv 2 del 1 c)",
-    "Bilder/Øvinger/Øving 14",
     "Bilder/Øvinger/Øving 14.md",
     "Øvinger/Øving 13/Øving 13.md",
     "Øvinger/Øving 13/Drawing.md",
-    "Øvinger/Øving 14",
-    "Øvinger/Øving 13/ESDA_II___Øving_13.pdf",
     "Kvitteringer.md",
     "Stella hjelp.md",
     "Video notater/T4.md",
@@ -287,7 +274,6 @@
     "Video notater/T4/Untitled.md",
     "Designnotat/Designnotat V/Drawing 2025-09-03 08.59.11.excalidraw.md",
     "Forelesninger/Forelesning 09.03.25.md",
-    "Øvinger/Øving 10/Oppgaver Øving 10.md",
-    "Forelesninger/Forelesning 08.27.25.md"
+    "Øvinger/Øving 10/Oppgaver Øving 10.md"
   ]
 }

@@ -39,4 +39,9 @@
 | がくぶ                        | Fakultet                                                 |
 | しがい                        | Sentrum, trondheim sentrum f.eks.                        |
 | かいがありました                   | It was rewarding (worth it)                              |
+| へん（な）                      | Rart (な adjektiv)                                        |
+| ...から                      | Slutter setning med så forklarer det                     |
+| ヨーロッパ                      | Europe                                                   |
+| あたまがよくない                   | Dumb                                                     |
+| あたまがわるい                    | Stupid                                                   |
 |                            |                                                          |

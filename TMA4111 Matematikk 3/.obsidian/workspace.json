@@ -8,16 +8,105 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d99c589539a350c",
+            "id": "a829a063092a8de0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "pdf",
+              "state": {
+                "file": "Arbeidshefter/3-10/3-10.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3-10"
+            }
+          },
+          {
+            "id": "bdd00a31339d0918",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Arbeidshefter/3-10/3-10-lf.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3-10-lf"
+            }
+          },
+          {
+            "id": "b0274e61866e1aba",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Arbeidshefter/3-8/3-8.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3-8"
+            }
+          },
+          {
+            "id": "6c6bf0fa9fa5f0c1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Arbeidshefter/3-8/3-8-lf.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3-8-lf"
+            }
+          },
+          {
+            "id": "7807afb1f91ef067",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Arbeidshefter/3-9/3-9.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3-9"
+            }
+          },
+          {
+            "id": "ffe63b8c00dc6795",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Arbeidshefter/3-1/3-1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3-1"
+            }
+          },
+          {
+            "id": "ee5fb6b00221bc5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forelesninger/Kap 3-7 30.09.25.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Kap 3-7 30.09.25"
+            }
+          },
+          {
+            "id": "6d337cdad68baf70",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Arbeidshefter/3-5/3-5.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3-5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,25 +276,26 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1d99c589539a350c",
+  "active": "bdd00a31339d0918",
   "lastOpenFiles": [
+    "Arbeidshefter/3-10/3-10.pdf",
+    "Arbeidshefter/3-10/3-10-lf.pdf",
     "Arbeidshefter/3-9/3-9.pdf",
-    "Arbeidshefter/3-9/3-9-lf.pdf",
-    "Oppgaver å dra tilbake til.md",
     "Arbeidshefter/3-8/3-8.pdf",
     "Arbeidshefter/3-8/3-8-lf.pdf",
+    "Arbeidshefter/3-1/3-1.pdf",
+    "Arbeidshefter/3-5/3-5.pdf",
+    "Forelesninger/Kap 3-7 30.09.25.md",
+    "Forelesninger/Kap 3-9 14.10.25.md",
+    "Forelesninger/Kap 3-8 07.10.25.md",
+    "Arbeidshefter/3-1/3-1-lf.pdf",
+    "Bilder/Forelesninger/Pasted image 20251007092901.png",
+    "Arbeidshefter/3-9/3-9-lf.pdf",
+    "Oppgaver å dra tilbake til.md",
     "Arbeidshefter/3-3/3-3.pdf",
     "Arbeidshefter/3-3/3-3-lf.pdf",
-    "Arbeidshefter/3-5/3-5.pdf",
-    "Arbeidshefter/3-6/3-6.pdf",
-    "Arbeidshefter/3-7/3-7.pdf",
-    "Arbeidshefter/3-2/3-2.pdf",
-    "Forelesninger/Kap 3-9 14.10.25.md",
     "Bilder/Forelesninger/14.10.25 nr 1.png",
-    "Forelesninger/Kap 3-8 07.10.25.md",
-    "Pasted image 20251007092901.png",
     "Bilder/Forelesninger/Pasted image 20251007084628.png",
-    "Forelesninger/Kap 3-7 30.09.25.md",
     "Forelesninger/Kap 3-3 02.09.25.md",
     "Forelesninger/Kap 3-5 16.09.25.md",
     "Forelesninger/Kap 3-4 09.09.25.md",
