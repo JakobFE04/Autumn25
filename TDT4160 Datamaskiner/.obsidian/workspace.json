@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fe174204fe5237ac",
@@ -265,10 +264,10 @@
       }
     ]
   },
-  "active": "521ae66430d7dc29",
+  "active": "f4ffaeee6595353d",
   "lastOpenFiles": [
-    "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25-v1.pdf",
     "Datdig Pensumbok + 36.pdf",
+    "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25-v1.pdf",
     "Planer/semesterplan-h25-tdt4160.pdf",
     "Forelesninger/PDF/tdt4160-f9-minnesystem(3).pdf",
     "Forelesninger/Forelesning 10.21.md",

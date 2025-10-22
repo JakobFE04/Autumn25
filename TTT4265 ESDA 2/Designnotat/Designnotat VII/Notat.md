@@ -83,8 +83,10 @@ $$
 | $C_{21}$ | 121  | 100nF + 22nF  |
 | $C_{22}$ | 17.7 | 15nF + 2.2nF  |
 |          |      |               |
-![[Pasted image 20251022105833.png]]
+![[Screenshot D7.png]]
 
 
 -3dB ved 3.3181 kHz
 -10dB ved 4.208 kHz
+
+![[Butterworth filter.png]]
