@@ -44,4 +44,13 @@
 | ヨーロッパ                      | Europe                                                   |
 | あたまがよくない                   | Dumb                                                     |
 | あたまがわるい                    | Stupid                                                   |
+| 出口　（でぐち）                   | Exit                                                     |
+| 入口　（いりぐち）                  | Entrance                                                 |
+| 駅　（えき）                     | Train station                                            |
+| まがる/まがります                  | Turn                                                     |
+| みちをわたる/わたりいます              | Cross The Street                                         |
+| かど                         | Corner                                                   |
+| しんごう                       | Traffic Light                                            |
+| 左/右がわ                      | Left/Right side                                          |
 |                            |                                                          |
+i
