@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kanji/Chapters 3-6.md",
+                "file": "TIL UTVEKSLING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapters 3-6"
+              "title": "TIL UTVEKSLING"
             }
           },
           {
@@ -65,18 +65,15 @@
             "id": "e858047f37708dc2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Forelesninger/10.16.25.md",
-                "mode": "source",
-                "source": false
+                "file": "すうじ/Counters.png"
               },
-              "icon": "lucide-file",
-              "title": "10.16.25"
+              "icon": "lucide-image",
+              "title": "Counters"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +138,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -259,14 +257,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e0a5e942bf45e742",
+  "active": "cf8cd0c92264d3aa",
   "lastOpenFiles": [
+    "Kanji/Chapters 3-6.md",
+    "さしん/Kanji/Pasted image 20251002145347.png",
+    "すうじ/Counters.png",
     "Bøker/Genki Textbook 3rd Ed.pdf",
+    "すうじ/すうじ　(Numbers) and Counters.md",
+    "Forelesninger/10.16.25.md",
+    "すうじ/Countig Words.pptx",
     "Nyttige ord & utryk.md",
     "Forelesninger/10.30.25.md",
-    "さしん/Kanji/Pasted image 20251002145347.png",
-    "Kanji/Chapters 3-6.md",
-    "Forelesninger/10.16.25.md",
     "Grammatikk/Adjectives.md",
     "Grammatikk/Past tense　です　＆　Verb.md",
     "TIL UTVEKSLING.md",
@@ -284,9 +285,7 @@
     "さしん/Kanji/Pasted image 20251002145408.png",
     "さしん/Kanji/Pasted image 20251002145331.png",
     "さしん/Kanji/Pasted image 20251002145315.png",
-    "さしん/Kanji/Pasted image 20251002145254.png",
     "さしん/Kanji",
-    "すうじ/すうじ　(Numbers).md",
     "すうじ/日、週、月、　年　(Days, Weeks, Months, Years).md",
     "Kanji",
     "Forelesninger/08.28.25.md",
@@ -300,7 +299,6 @@
     "BB Info/「サイレントウェイ式仮名導入表」教科書体[新推奨版].pdf",
     "ゴール.canvas",
     "BB Info/semesterplan høst 2025.pdf",
-    "Ikke bekreftet 802072.crdownload",
     "Hei Stella.md",
     "Hiragana Flashcards.md",
     "Welcome.md"
