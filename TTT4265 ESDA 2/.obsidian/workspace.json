@@ -8,41 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a196ddfe085e56c1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "aktivitetsplan 2025.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "aktivitetsplan 2025"
-            }
-          },
-          {
             "id": "5201afae0f7784c9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Øvinger/Øving 16/esdaii_oving16.pdf"
+                "file": "Øvinger/Øving 17/Øving 17.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "esdaii_oving16"
+              "icon": "lucide-file",
+              "title": "Øving 17"
             }
           },
           {
             "id": "f5463f7273b36fb4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Øvinger/Øving 16/Øving 16.md",
-                "mode": "source",
-                "source": false
+                "file": "Øvinger/Øving 17/esdaii_oving17.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Øving 16"
+              "icon": "lucide-file-text",
+              "title": "esdaii_oving17"
             }
           },
           {
@@ -56,9 +44,34 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-10-29 10.08.44.excalidraw"
             }
+          },
+          {
+            "id": "a7ff050272842e3e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Øvinger/Øving 16/esdaii_oving16.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "esdaii_oving16"
+            }
+          },
+          {
+            "id": "942c37e4281ec99d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Øvinger/Øving 16/Øving 16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Øving 16"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,8 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 891.5,
-    "collapsed": true
+    "width": 891.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,31 +253,32 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f5463f7273b36fb4",
+  "active": "5201afae0f7784c9",
   "lastOpenFiles": [
-    "Øvinger/Øving 16/Øving 16.pdf",
-    "Bilder/Øvinger/Øving 16/3 c 2.png",
+    "Øvinger/Øving 17/default.dwf3work",
+    "Øvinger/Øving 17/default.dwf3work.temp",
+    "Pasted image 20251105151619.png",
+    "Øvinger/Øving 17/Øving 17.pdf",
+    "Øvinger/Øving 17/esdaii_oving17.pdf",
+    "Øvinger/Øving 17/Øving 17.md",
+    "Øvinger/Øving 17/ice-build/Sys 2/hardware.json",
+    "Pasted image 20251105145814.png",
+    "Bilder/Øvinger/Øving 17/Pasted image 20251105145738.png",
+    "Bilder/Øvinger/Øving 17/Pasted image 20251105145520.png",
+    "Bilder/Øvinger/Øving 17/Pasted image 20251105144512.png",
+    "Bilder/Øvinger/Øving 17/Pasted image 20251105144445.png",
+    "Bilder/Øvinger/Øving 17/Pasted image 20251105144421.png",
+    "Bilder/Øvinger/Øving 17/Pasted image 20251105144344.png",
+    "Bilder/Øvinger/Øving 17/Pasted image 20251105144320.png",
+    "Bilder/Øvinger/Øving 17/Pasted image 20251105144300.png",
+    "Øvinger/Øving 17/ice-build/Sys 2/hardware.asc",
+    "Øvinger/Øving 17/ice-build/Sys 2/abc.history",
+    "Øvinger/Øving 17/ice-build/Opgv 1/hardware.json",
     "Øvinger/Øving 16/esdaii_oving16.pdf",
+    "Øvinger/Øving 17/ice-build/Opgv 1/hardware.asc",
     "Øvinger/Øving 16/Øving 16.md",
-    "Øvinger/Øving 16/ice-build/Opgv 3 c led versjon/hardware.json",
-    "Øvinger/Øving 16/ice-build/Opgv 3 c led versjon/abc.history",
-    "Øvinger/Øving 16/ice-build/Opgv 3 c led versjon/main.pcf",
-    "Øvinger/Øving 16/ice-build/Opgv 3 c led versjon/main.v",
-    "Øvinger/Øving 16/ice-build/Opgv 3 c led versjon",
-    "Øvinger/Øving 16/Opgv 3 c led versjon.ice",
-    "Øvinger/Øving 16/ice-build/Opgv 3 a/hardware.bin",
-    "Øvinger/Øving 16/ice-build/Opgv 3 a/hardware.asc",
-    "Øvinger/Øving 16/ice-build/Opgv 3 a/hardware.json",
-    "5 d.png",
-    "Bilder/Øvinger/Øving 16/5 d v2.png",
-    "Bilder/Øvinger/Øving 16/5 c.png",
-    "Bilder/Øvinger/Øving 16/opgv 5 b.png",
+    "Øvinger/Øving 17/ice-build/Opgv 1/hardware.out",
     "Øvinger/Øving 16/Drawing 2025-10-29 10.08.44.excalidraw.md",
-    "Bilder/Øvinger/Øving 16/Opgv 5 a 1.png",
-    "Bilder/Øvinger/Øving 16/Opgv 5 a 2.png",
-    "Bilder/Øvinger/Øving 16/4 b.png",
-    "Bilder/Øvinger/Øving 16/3 b.png",
-    "Bilder/Øvinger/Øving 16/3 c.png",
     "Kvitteringer.md",
     "Designnotat/Designnotat VII/Notat.md",
     "Video notater/F2.md",
@@ -287,7 +300,6 @@
     "Video notater/T2.md",
     "Øvinger/Øving 11/Øving 11.md",
     "Øvinger/Øving 12/Øving 12.md",
-    "Video notater/T4/Untitled.md",
-    "Designnotat/Designnotat V/Drawing 2025-09-03 08.59.11.excalidraw.md"
+    "Video notater/T4/Untitled.md"
   ]
 }

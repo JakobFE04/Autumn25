@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "b3d7ee8371f7d33e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "さしん/Kanji/Pasted image 20251002145347.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251002145347"
-            }
-          },
-          {
             "id": "88aa1dc5f79ec3a8",
             "type": "leaf",
             "state": {
@@ -65,15 +53,18 @@
             "id": "e858047f37708dc2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "すうじ/Counters.png"
+                "file": "Kanji/Chapters 3-6.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Counters"
+              "icon": "lucide-file",
+              "title": "Chapters 3-6"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 961.5015474557877
+    "width": 961.5015474557877,
+    "collapsed": true
   },
   "right": {
     "id": "33c96c63865fe754",
@@ -241,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,20 +250,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "cf8cd0c92264d3aa",
+  "active": "e858047f37708dc2",
   "lastOpenFiles": [
-    "Kanji/Chapters 3-6.md",
-    "さしん/Kanji/Pasted image 20251002145347.png",
     "すうじ/Counters.png",
+    "Forelesninger/10.30.25.md",
+    "TIL UTVEKSLING.md",
+    "さしん/Kanji/Pasted image 20251002145347.png",
     "Bøker/Genki Textbook 3rd Ed.pdf",
+    "Kanji/Chapters 3-6.md",
     "すうじ/すうじ　(Numbers) and Counters.md",
     "Forelesninger/10.16.25.md",
     "すうじ/Countig Words.pptx",
     "Nyttige ord & utryk.md",
-    "Forelesninger/10.30.25.md",
     "Grammatikk/Adjectives.md",
     "Grammatikk/Past tense　です　＆　Verb.md",
-    "TIL UTVEKSLING.md",
     "Grammatikk/ませんか、んです.md",
     "Grammatikk/は、を、に、へ、で、が、の、か、も、ね、よ、た.md",
     "Forelesninger/09.25.25.md",

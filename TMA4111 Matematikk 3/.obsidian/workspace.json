@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forelesninger/Kap 3-10 28.10.25.md",
+                "file": "Forelesninger/Kap 3-11 04.11.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kap 3-10 28.10.25"
+              "title": "Kap 3-11 04.11.25"
             }
           },
           {
@@ -27,10 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Arbeidshefter/3-12/3-12.pdf"
+                "file": "Arbeidshefter/3-11/3-11.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "3-12"
+              "title": "3-11"
             }
           },
           {
@@ -39,14 +39,13 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Arbeidshefter/3-12/3-12-lf.pdf"
+                "file": "Arbeidshefter/3-11/3-11-lf.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "3-12-lf"
+              "title": "3-11-lf"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,16 +215,18 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "bafef8c51939e792",
+  "active": "8f61919e0abb0e40",
   "lastOpenFiles": [
-    "Kapitel Notater/Kap 3-1 FLUENS STOLTE GANG OVER RULLEGARDINEN.md",
-    "Arbeidshefter/3-12/3-12.pdf",
-    "Arbeidshefter/3-12/3-12-lf.pdf",
-    "Forelesninger/Kap 3-10 28.10.25.md",
-    "Arbeidshefter/3-11/3-11.pdf",
     "Arbeidshefter/3-11/3-11-lf.pdf",
-    "Arbeidshefter/3-10/3-10.pdf",
+    "Arbeidshefter/3-11/3-11.pdf",
+    "Forelesninger/Kap 3-11 04.11.25.md",
+    "Bilder/Forelesninger/Pasted image 20251104083019.png",
+    "Arbeidshefter/3-12/3-12-lf.pdf",
+    "Arbeidshefter/3-12/3-12.pdf",
     "Arbeidshefter/3-9/3-9.pdf",
+    "Forelesninger/Kap 3-10 28.10.25.md",
+    "Kapitel Notater/Kap 3-1 FLUENS STOLTE GANG OVER RULLEGARDINEN.md",
+    "Arbeidshefter/3-10/3-10.pdf",
     "Arbeidshefter/3-8/3-8.pdf",
     "Arbeidshefter/3-13/3-13.pdf",
     "Arbeidshefter/3-8/3-8-lf.pdf",
@@ -251,7 +252,6 @@
     "Bilder/Forelesninger/Pasted image 20250923105003.png",
     "Bilder/Forelesninger/23.09.25 Bilde nr 1.jpg",
     "Arbeidshefter/3-5/Oppgaver 1.md",
-    "Bilder/Forelesninger/Pasted image 20250916094950.png",
     "Arbeidshefter/3-4/Oppgaver 1 1.md",
     "Arbeidshefter/3-3/Oppgaver.md",
     "Arbeidshefter/3-2/Oppgaver.md",
@@ -261,7 +261,6 @@
     "Arbeidshefter/3-10/Oppgaver 1.md",
     "Arbeidshefter/3-9/Oppgaver 1.md",
     "Arbeidshefter/3-8/Oppgaver 1.md",
-    "Arbeidshefter/3-7/Oppgaver 1.md",
-    "Arbeidshefter/3-6/Oppgaver 1.md"
+    "Arbeidshefter/3-7/Oppgaver 1.md"
   ]
 }

@@ -25,14 +25,28 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Forelesninger/PDF/ForelesningTH17(1).pdf"
+                "file": "Forelesninger/PDF/ForelesningTH19.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "ForelesningTH17(1)"
+              "title": "ForelesningTH19"
+            }
+          },
+          {
+            "id": "fca8af7f8904950c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forelesninger/Forelesning 11.04.25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forelesning 11.04.25"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,9 +216,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dac2347ea49bdbc1",
+  "active": "1a37baf8dfbfeb42",
   "lastOpenFiles": [
+    "Bilder/Forelesninger/Pasted image 20251104152146.png",
+    "Bilder/Forelesninger/Pasted image 20251104144040.png",
+    "Forelesninger/Forelesning 11.04.25.md",
+    "Forelesninger/PDF/ForelesningTH19.pdf",
+    "Forelesninger/PDF/ForelesningTH21.pdf",
     "Forelesninger/PDF/ForelesningTH18.pdf",
+    "Forelesninger/PDF/ForelesningTH17(1).pdf",
     "Forelesninger/PDF/Forelesning013.pdf",
     "Forelesninger/PDF/Forelesning012KK.pdf",
     "Forelesninger/Forelesning 10.14.25.md",
@@ -215,10 +235,6 @@
     "Forelesninger/PDF/Forelesning011.pdf",
     "Forelesninger/Forelesning 09.02.25.md",
     "Bilder/Forelesninger/Pasted image 20250902141922.png",
-    "Forelesninger/PDF/Forelesning08.pdf",
-    "Forelesninger/PDF/Forelesning04.pdf",
-    "Øvinger/Øving 3/losning3.pdf",
-    "Øvinger/Øving 3/oving3.pdf",
     "Bilder/Forelesninger/Pasted image 20250902151748.png",
     "Forelesninger/Forelesning 08.19.25.md",
     "Øvinger/Øving 1/Notes.md",
