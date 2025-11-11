@@ -4,21 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "c3b326c6e6a526a9",
+        "id": "a7fbb49851c74ad0",
         "type": "tabs",
         "children": [
           {
-            "id": "f4ffaeee6595353d",
+            "id": "18c564c4c7eccb0c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25-v1.pdf"
+                "file": "Forelesninger/Forelesning 11.11.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25-v1"
+              "icon": "lucide-file",
+              "title": "Forelesning 11.11"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "c3b326c6e6a526a9",
+        "type": "tabs",
+        "children": [
           {
             "id": "3cde9077bb0e6f24",
             "type": "leaf",
@@ -32,7 +40,7 @@
             }
           },
           {
-            "id": "0d028812304d16eb",
+            "id": "c1bb0a86b4281fc8",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -44,41 +52,27 @@
             }
           },
           {
-            "id": "6eaf2c1f891ec53d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forelesninger/Forelesning 11.04.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Forelesning 11.04"
-            }
-          },
-          {
-            "id": "9f435e69c723a411",
+            "id": "3cbd87628275ad67",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Forelesninger/PDF/tdt4160-f11-virtuelt-minne-og-parallelle-datamaskiner(1).pdf"
+                "file": "Forelesninger/PDF/tdt4160-f12-parallelle-datamaskiner-og-akseleratorer(1).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "tdt4160-f11-virtuelt-minne-og-parallelle-datamaskiner(1)"
+              "title": "tdt4160-f12-parallelle-datamaskiner-og-akseleratorer(1)"
             }
           },
           {
-            "id": "c969c71fefc9122b",
+            "id": "a1e3d51394583e3d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Forelesninger/PDF/tdt4160-f10-minneteknologier-og-raskere-hurtigbuffere(2).pdf"
+                "file": "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25(5).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "tdt4160-f10-minneteknologier-og-raskere-hurtigbuffere(2)"
+              "title": "laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25(5)"
             }
           }
         ],
@@ -151,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 226.5,
+    "collapsed": true
   },
   "right": {
     "id": "fe174204fe5237ac",
@@ -264,14 +259,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d028812304d16eb",
+  "active": "3cbd87628275ad67",
   "lastOpenFiles": [
-    "Forelesninger/Forelesning 11.04.md",
-    "Forelesninger/PDF/tdt4160-f11-virtuelt-minne-og-parallelle-datamaskiner(1).pdf",
-    "Forelesninger/PDF/tdt4160-f10-minneteknologier-og-raskere-hurtigbuffere(2).pdf",
-    "Datdig Pensumbok + 36.pdf",
-    "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25-v1.pdf",
+    "Forelesninger/Forelesning 11.11.md",
+    "Forelesninger/PDF/tdt4160-f12-parallelle-datamaskiner-og-akseleratorer(1).pdf",
+    "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25(5).pdf",
     "Planer/semesterplan-h25-tdt4160.pdf",
+    "Datdig Pensumbok + 36.pdf",
+    "Forelesninger/PDF/tdt4160-f11-virtuelt-minne-og-parallelle-datamaskiner(1).pdf",
+    "Praktiske Øvnger/P4/Øving 4.md",
+    "Praktiske Øvnger/P4/Failure.md",
+    "Praktiske Øvnger/P4",
+    "Forelesninger/Forelesning 11.04.md",
+    "Forelesninger/PDF/tdt4160-f10-minneteknologier-og-raskere-hurtigbuffere(2).pdf",
+    "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25-v1.pdf",
     "Forelesninger/Forelesning 10.28.md",
     "Bilder/Forelesninger/Pasted image 20251028113738.png",
     "Bilder/Forelesninger/Pasted image 20251028112709.png",
@@ -289,12 +290,9 @@
     "Praktiske Øvnger/Øving 1.md",
     "Praktiske Øvnger/Øving 2/Øving 2.2.md",
     "Notater/Kap 4.md",
-    "Teoretisk Øvinger",
-    "Forelesninger/PDF/tdt4160-f8-farer-og-hoyere-ytelse(4).pdf",
     "Bilder/Notater/Kap 4/4.7 image 2.png",
     "Forelesninger/Forelesning 09.30.md",
     "Bilder/Notater/Kap 4/4.7 image 1.png",
-    "Forelesninger/PDF/tdt4160-f7-samlebaand(4).pdf",
     "Bilder/Notater/Kap 4/Kap 4.5 figur 4.5.4.png",
     "Forelesninger/Forelesning 09.23.md",
     "Bilder/Forelesninger/Pasted image 20250923104936.png",
@@ -307,9 +305,6 @@
     "Notater/Kap 3.md",
     "Forelesninger/Forelesning 09.02.md",
     "Forelesninger/Forelesning 08.26.md",
-    "Oppgaver/Kap 1.md",
-    "Forelesninger/Forelesning 08.19.md",
-    "2025-07-19.md",
-    "Welcome.md"
+    "Oppgaver/Kap 1.md"
   ]
 }

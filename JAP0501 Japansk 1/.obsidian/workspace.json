@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "156c74b92537263b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Bøker/Genki Textbook 3rd Ed.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Genki Textbook 3rd Ed"
+            }
+          },
+          {
             "id": "cf8cd0c92264d3aa",
             "type": "leaf",
             "state": {
@@ -63,8 +75,7 @@
               "title": "Chapters 3-6"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,18 +88,6 @@
         "id": "3dc423051113c067",
         "type": "tabs",
         "children": [
-          {
-            "id": "156c74b92537263b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Bøker/Genki Textbook 3rd Ed.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Genki Textbook 3rd Ed"
-            }
-          },
           {
             "id": "4fb505281ced8f35",
             "type": "leaf",
@@ -129,12 +128,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 961.5015474557877,
+    "width": 252.5,
     "collapsed": true
   },
   "right": {
@@ -250,14 +248,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "e858047f37708dc2",
+  "active": "156c74b92537263b",
   "lastOpenFiles": [
+    "Forelesninger/08.21.25.md",
+    "Bøker/Genki Textbook 3rd Ed.pdf",
+    "Kanji/Chapters 3-6.md",
     "すうじ/Counters.png",
     "Forelesninger/10.30.25.md",
     "TIL UTVEKSLING.md",
     "さしん/Kanji/Pasted image 20251002145347.png",
-    "Bøker/Genki Textbook 3rd Ed.pdf",
-    "Kanji/Chapters 3-6.md",
     "すうじ/すうじ　(Numbers) and Counters.md",
     "Forelesninger/10.16.25.md",
     "すうじ/Countig Words.pptx",
@@ -283,7 +282,6 @@
     "Kanji",
     "Forelesninger/08.28.25.md",
     "Forelesninger/08.25.25.md",
-    "Forelesninger/08.21.25.md",
     "Forelesninger/09.11.25.md",
     "さしん",
     "BB Info/OBLIGATORISKE OPPGAVER JAP0501 høst 2025.pdf",

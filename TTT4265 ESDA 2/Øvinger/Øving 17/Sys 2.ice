@@ -1406,7 +1406,7 @@
           "id": "e4ba3eee-8851-4576-8921-cca074ee7028",
           "type": "basic.outputLabel",
           "data": {
-            "name": "T4",
+            "name": "T0",
             "blockColor": "steelblue",
             "virtual": true,
             "pins": [
