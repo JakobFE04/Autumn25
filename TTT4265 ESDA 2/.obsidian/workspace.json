@@ -34,6 +34,20 @@
             }
           },
           {
+            "id": "ea15b23ad855cb42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forelesninger/Forelesning 11.12.25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Forelesning 11.12.25"
+            }
+          },
+          {
             "id": "534e952cb2ef751e",
             "type": "leaf",
             "state": {
@@ -70,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,7 +250,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 891.5
+    "width": 891.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,8 +267,10 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0236c4b211456b0f",
+  "active": "ea15b23ad855cb42",
   "lastOpenFiles": [
+    "Forelesninger/Forelesning 08.27.25.md",
+    "Forelesninger/Forelesning 11.12.25.md",
     "Designnotat/Designnotat VIII/Designnotat_VIII_v2.pdf",
     "Designnotat/Designnotat VII/Designnotat_VII_v1.4.pdf",
     "Designnotat/Designnotat VIII/Notes.md",
@@ -275,7 +292,6 @@
     "Designnotat/Designnotat VIII/Waveforms.dwf3work.temp",
     "Designnotat/Designnotat VIII/Data/Spektrum EXP AVG.jpg",
     "Designnotat/Designnotat VIII/Data/Network -30 dB 800-7kHz filter ORIGINAL.csv",
-    "Designnotat/Designnotat VIII/Data/Network -30 dB 800-7kHz filter copy.csv",
     "Øvinger/Øving 16/Øving 16.md",
     "Øvinger/Øving 16/Drawing 2025-10-29 10.08.44.excalidraw.md",
     "Kvitteringer.md",
@@ -298,7 +314,6 @@
     "Designnotat/Designnotat VI/Notat.md",
     "Designnotat/Designnotat V/D5.md",
     "Video notater/T2.md",
-    "Øvinger/Øving 11/Øving 11.md",
-    "Øvinger/Øving 12/Øving 12.md"
+    "Øvinger/Øving 11/Øving 11.md"
   ]
 }
