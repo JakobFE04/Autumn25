@@ -8,83 +8,149 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3e98f8ef278cf402",
+            "id": "b40ecb1e24a543f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Designnotat/Designnotat VIII/Notes.md",
+                "file": "Sannsynlighet for å få oppgaver jeg ikke vil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Sannsynlighet for å få oppgaver jeg ikke vil"
             }
           },
           {
-            "id": "0236c4b211456b0f",
+            "id": "66381c99be143f1f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Designnotat/Designnotat VIII/Design_8(1).pdf"
+                "file": "Øvinger/Øving 14/ESDA_II___Øving_14.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Design_8(1)"
+              "title": "ESDA_II___Øving_14"
             }
           },
           {
-            "id": "ea15b23ad855cb42",
+            "id": "3cdcc8724387b900",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Øvinger/Øving 14/Øving 14.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Øving 14"
+            }
+          },
+          {
+            "id": "565dd0fe08efcc96",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Øvinger/Øving 15/ESDA_II_Øving_15.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ESDA_II_Øving_15"
+            }
+          },
+          {
+            "id": "d943c95087ce72a4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Øvinger/Øving 13/ESDA_II___Øving_13.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ESDA_II___Øving_13"
+            }
+          },
+          {
+            "id": "e308ccc9cae26cd1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Øvinger/Øving 15/Øving 15 Tegning.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Øving 15 Tegning"
+            }
+          },
+          {
+            "id": "5b1e9e3d374a7774",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Øvinger/Øving 13/Drawing.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing"
+            }
+          },
+          {
+            "id": "cec812fea34aaec5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forelesninger/Forelesning 11.12.25.md",
+                "file": "Video notater/T2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forelesning 11.12.25"
+              "title": "T2"
             }
           },
           {
-            "id": "534e952cb2ef751e",
+            "id": "d375782f11063f56",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Designnotat/Designnotat VIII/teknisk_notat(1).pdf"
+                "file": "Video notater/T3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "teknisk_notat(1)"
+              "icon": "lucide-file",
+              "title": "T3"
             }
           },
           {
-            "id": "280ee95e565339ba",
+            "id": "e0205ba66b5bca27",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Øvinger/Øving 17/Øving 17.pdf"
+                "file": "Video notater/T4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Øving 17"
+              "icon": "lucide-file",
+              "title": "T4"
             }
           },
           {
-            "id": "1d0d99ba29913be7",
+            "id": "ac43c2a327f8eead",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Designnotat/Designnotat VII/Designnotat_VII_v1.4.pdf"
+                "file": "Video notater/T5.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Designnotat_VII_v1.4"
+              "icon": "lucide-file",
+              "title": "T5"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -136,12 +202,25 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "992fa65346b0250d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ttt4265_samtaletema_2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ttt4265_samtaletema_2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 868.5
   },
   "right": {
     "id": "4f1dd813ca13da5c",
@@ -250,8 +329,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 891.5,
-    "collapsed": true
+    "width": 891.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,18 +345,33 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ea15b23ad855cb42",
+  "active": "d375782f11063f56",
   "lastOpenFiles": [
-    "Forelesninger/Forelesning 08.27.25.md",
+    "Video notater/T2.md",
+    "Sannsynlighet for å få oppgaver jeg ikke vil.md",
+    "ttt4265_samtaletema_2025.pdf",
+    "Video notater/T3.md",
+    "Video notater/T4.md",
+    "Video notater/T5.md",
+    "Video notater/F2.md",
+    "Øvinger/Øving 13/ESDA_II___Øving_13.pdf",
+    "Øvinger/Øving 15/Øving 15 Tegning.md",
+    "Øvinger/Øving 13/Drawing.md",
+    "Øvinger/Øving 15/ESDA_II_Øving_15.pdf",
+    "Øvinger/Øving 13/Drawing.pdf",
+    "Øvinger/Øving 14/ESDA_II___Øving_14.pdf",
+    "Øvinger/Øving 14/Øving 14.pdf",
+    "Øvinger/Øving 13/Øving 13.pdf",
+    "Kvitteringer.md",
+    "Designnotat/Designnotat VIII/Designnotat_VIII_v3.pdf",
+    "Designnotat/Designnotat VIII/Designnotat_VIII.pdf",
+    "Øvinger/Øving 15/Øving 15.md",
+    "Øvinger/Øving 15/Øving 15.pdf",
+    "Øvinger/Øving 14/Øving 14.md",
+    "Øvinger/Øving 13/Øving 13.md",
     "Forelesninger/Forelesning 11.12.25.md",
-    "Designnotat/Designnotat VIII/Designnotat_VIII_v2.pdf",
-    "Designnotat/Designnotat VII/Designnotat_VII_v1.4.pdf",
     "Designnotat/Designnotat VIII/Notes.md",
-    "Designnotat/Designnotat VIII/Data/Scope n=1 Filter og støy copy.csv",
-    "Designnotat/Designnotat VIII/Designnotat_VIII_v1.pdf",
-    "Designnotat/Designnotat VIII/teknisk_notat(1).pdf",
-    "Designnotat/Designnotat VIII/Design_8(1).pdf",
-    "Øvinger/Øving 17/Øving 17.pdf",
+    "Forelesninger/Forelesning 08.27.25.md",
     "Designnotat/Designnotat VIII/Bilder/bit loop taps tabell.png",
     "Designnotat/Designnotat VIII/Bilder/Many to one vs one to many.png",
     "Designnotat/Designnotat VIII/Bilder/kobling.jpg",
@@ -288,32 +381,16 @@
     "Designnotat/Designnotat VIII/Bilder/Pasted image 20251107165016.png",
     "Designnotat/Designnotat VIII/Bilder/Pasted image 20251107163949.png",
     "Designnotat/Designnotat VIII/Data/Oscilloskop plot.jpg",
-    "Designnotat/Designnotat VIII/Waveforms.dwf3work",
-    "Designnotat/Designnotat VIII/Waveforms.dwf3work.temp",
     "Designnotat/Designnotat VIII/Data/Spektrum EXP AVG.jpg",
-    "Designnotat/Designnotat VIII/Data/Network -30 dB 800-7kHz filter ORIGINAL.csv",
     "Øvinger/Øving 16/Øving 16.md",
     "Øvinger/Øving 16/Drawing 2025-10-29 10.08.44.excalidraw.md",
-    "Kvitteringer.md",
     "Øvinger/Øving 17/Øving 17.md",
     "Designnotat/Designnotat VII/Notat.md",
-    "Video notater/F2.md",
-    "Øvinger/Øving 15/Øving 15 Tegning.md",
-    "Øvinger/Øving 15/Øving 15.md",
-    "Øvinger/Øving 14/Øving 14.md",
     "Bilder/Øvinger/Øving 14/Oppgave 3.md",
     "Bilder/Øvinger/Øving 14/Del 3 opgv 1.md",
     "opgv 2 del 1 c).md",
     "Bilder/Øvinger/Øving 14.md",
-    "Øvinger/Øving 13/Øving 13.md",
-    "Øvinger/Øving 13/Drawing.md",
     "Stella hjelp.md",
-    "Video notater/T4.md",
-    "Video notater/T3.md",
-    "Video notater/T5.md",
-    "Designnotat/Designnotat VI/Notat.md",
-    "Designnotat/Designnotat V/D5.md",
-    "Video notater/T2.md",
-    "Øvinger/Øving 11/Øving 11.md"
+    "Designnotat/Designnotat VI/Notat.md"
   ]
 }

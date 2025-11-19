@@ -4,19 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "d39f0f1dd020f8c1",
+        "id": "afcf5166e70d5a13",
         "type": "tabs",
         "children": [
+          {
+            "id": "922dcc891b4f45b6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Eksamener/K23/Eksamen_TFY4115_Fysikk_S2023_losningsforslag.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Eksamen_TFY4115_Fysikk_S2023_losningsforslag"
+            }
+          },
+          {
+            "id": "1af9c51646aabc28",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "TFY4115 Formelark S2023(1).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "TFY4115 Formelark S2023(1)"
+            }
+          },
           {
             "id": "6907b26478874040",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Eksamener/K24/Eksamen_TFY4115_Fysikk_S2024(1).pdf"
+                "file": "Eksamener/K23/Eksamen_TFY4115_Fysikk_S2023_bokmål.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Eksamen_TFY4115_Fysikk_S2024(1)"
+              "title": "Eksamen_TFY4115_Fysikk_S2023_bokmål"
+            }
+          },
+          {
+            "id": "68b0d51f3b082cb0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Forelesninger/PDF/Forelesning013 BEVEGELSE.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Forelesning013 BEVEGELSE"
             }
           }
         ]
@@ -71,37 +107,12 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "ee9dd973fd59ef69",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Eksamener/K24/Eksamen_TFY4115_Fysikk_S2024_losningsforslag(2).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Eksamen_TFY4115_Fysikk_S2024_losningsforslag(2)"
-            }
-          },
-          {
-            "id": "1af9c51646aabc28",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "TFY4115 Formelark S2023(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "TFY4115 Formelark S2023(1)"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 997.5
+    "width": 340.5
   },
   "right": {
     "id": "b10563b906fce344",
@@ -197,7 +208,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,19 +225,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee9dd973fd59ef69",
+  "active": "922dcc891b4f45b6",
   "lastOpenFiles": [
+    "formler_021225_tfy4115.pdf",
     "TFY4115 Formelark S2023(1).pdf",
-    "Eksamener/K24/Eksamen_TFY4115_Fysikk_S2024_losningsforslag(2).pdf",
+    "Eksamener/K23/Eksamen_TFY4115_Fysikk_S2023_bokmål.pdf",
+    "Eksamener/K23/Eksamen_TFY4115_Fysikk_S2023_losningsforslag.pdf",
+    "Forelesninger/PDF/Forelesning013 BEVEGELSE.pdf",
+    "Forelesninger/PDF/Forelesning015.pdf",
     "Eksamener/K24/Eksamen_TFY4115_Fysikk_S2024(1).pdf",
+    "Eksamener/K23",
+    "Eksamener/K24/Eksamen_TFY4115_Fysikk_S2024_losningsforslag(2).pdf",
     "Forelesninger/PDF/ForelesningTH21.pdf",
     "Forelesninger/PDF/ForelesningTH16.pdf",
-    "Forelesninger/PDF/Forelesning014.pdf",
-    "Eksamener/H23/Eksamen_TFY4115_Fysikk_H2023_losningsforslag.pdf",
-    "Eksamener/K24",
-    "Eksamener/H23/Eksamen_TFY4115_Fysikk_H2023_bokmål.pdf",
-    "Forelesninger/PDF/Forelesning015.pdf",
-    "Forelesninger/PDF/ForelesningTH18.pdf",
     "Forelesninger/Forelesning 11.04.25.md",
     "Forelesninger/Forelesning 08.19.25.md",
     "Forelesninger/Forelesning 11.11.25.md",

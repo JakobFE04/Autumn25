@@ -44,23 +44,8 @@
               "icon": "lucide-file-text",
               "title": "3-2"
             }
-          },
-          {
-            "id": "730c8960b482c71a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forelesninger/Kap 3-12 11.11.25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kap 3-12 11.11.25"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "eb182d6e742c1dcb",
@@ -244,8 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "912cb94881305f0a",
@@ -358,11 +342,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "730c8960b482c71a",
+  "active": "5be6cded028cb41a",
   "lastOpenFiles": [
+    "Forelesninger/Forelesning 11.18.25.md",
     "Eksamen/Ting skal kunne og må jobbe med.md",
-    "Arbeidshefter/3-1/3-1.pdf",
     "Forelesninger/Kap 3-12 11.11.25.md",
+    "Arbeidshefter/3-1/3-1.pdf",
     "Pasted image 20251111083209.png",
     "Arbeidshefter/3-12/3-12.pdf",
     "Arbeidshefter/3-3/3-3.pdf",
