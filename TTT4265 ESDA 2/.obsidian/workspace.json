@@ -11,14 +11,12 @@
             "id": "b40ecb1e24a543f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Designnotat/Designnotat VII/Notat.md",
-                "mode": "source",
-                "source": false
+                "file": "Designnotat/Designnotat VII/Designnotat_VII_V2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Notat"
+              "icon": "lucide-file-text",
+              "title": "Designnotat_VII_V2"
             }
           },
           {
@@ -279,8 +277,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 891.5,
-    "collapsed": true
+    "width": 891.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,6 +295,7 @@
   },
   "active": "b40ecb1e24a543f2",
   "lastOpenFiles": [
+    "Designnotat/Designnotat VII/Notat.md",
     "Designnotat/Designnotat VIII/Designnotat_VIII_V2.pdf",
     "Designnotat/Designnotat VII/Designnotat_VII_V2.pdf",
     "Designnotat/Designnotat_VII_V2.pdf",
@@ -307,12 +305,10 @@
     "Designnotat/Designnotat VIII/Bilder/one to many.png",
     "Designnotat/Designnotat V/D5_2025.pdf",
     "Designnotat/Designnotat VII/Designnotat_VII_v1.4.pdf",
-    "Designnotat/Designnotat VII/Notat.md",
     "Designnotat/Designnotat VII/D7.pdf",
     "Sannsynlighet for å få oppgaver jeg ikke vil.md",
     "Video notater/T4.md",
     "ttt4265_samtaletema_2025.pdf",
-    "Øvinger/Øving 11/oving_11.pdf",
     "Video notater/T5.md",
     "Video notater/T3.md",
     "Øvinger/Øving 9/Oppgaver Øving 9.md",
