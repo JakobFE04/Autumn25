@@ -21,7 +21,7 @@
 	- Forholdet mellom den sekvensielle og parallelle delen seg omtrent konstant
 	- Svak skalering.
 
-## FLynns taksonomi
+## Flynns taksonomi
 - Instruksjonsstrømmer SI eller MI (single/multiple instructions)
 - Datastrømmer SD eller MD (single/multiple data).
 

@@ -6,6 +6,7 @@
       {
         "id": "a7fbb49851c74ad0",
         "type": "tabs",
+        "dimension": 40.9923213230951,
         "children": [
           {
             "id": "18c564c4c7eccb0c",
@@ -20,12 +21,38 @@
               "icon": "lucide-file",
               "title": "Forelesning 11.11"
             }
+          },
+          {
+            "id": "4045a76cb77d77ad",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Jukse kort.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Jukse kort"
+            }
+          },
+          {
+            "id": "7c4854986dbe9862",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Eksamener/tdt4160-kont25.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "tdt4160-kont25"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "c3b326c6e6a526a9",
         "type": "tabs",
+        "dimension": 59.00767867690491,
         "children": [
           {
             "id": "3cde9077bb0e6f24",
@@ -52,18 +79,6 @@
             }
           },
           {
-            "id": "3cbd87628275ad67",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Forelesninger/PDF/tdt4160-f12-parallelle-datamaskiner-og-akseleratorer(1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "tdt4160-f12-parallelle-datamaskiner-og-akseleratorer(1)"
-            }
-          },
-          {
             "id": "a1e3d51394583e3d",
             "type": "leaf",
             "state": {
@@ -76,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5,
-    "collapsed": true
+    "width": 226.5
   },
   "right": {
     "id": "fe174204fe5237ac",
@@ -233,8 +247,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -242,8 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,24 +272,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cbd87628275ad67",
+  "active": "c1bb0a86b4281fc8",
   "lastOpenFiles": [
-    "Forelesninger/Forelesning 11.11.md",
-    "Forelesninger/PDF/tdt4160-f12-parallelle-datamaskiner-og-akseleratorer(1).pdf",
+    "Eksamener/tdt4160-kont25.pdf",
     "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25(5).pdf",
     "Planer/semesterplan-h25-tdt4160.pdf",
     "Datdig Pensumbok + 36.pdf",
+    "Forelesninger/PDF/tdt4160-f12-parallelle-datamaskiner-og-akseleratorer(1).pdf",
+    "Jukse kort.pdf",
+    "Eksamener/tdt4160-ordinaer-eksamen24.pdf",
+    "Eksamener",
+    "Forelesninger/Forelesning 11.11.md",
     "Forelesninger/PDF/tdt4160-f11-virtuelt-minne-og-parallelle-datamaskiner(1).pdf",
     "Praktiske Øvnger/P4/Øving 4.md",
     "Praktiske Øvnger/P4/Failure.md",
     "Praktiske Øvnger/P4",
     "Forelesninger/Forelesning 11.04.md",
     "Forelesninger/PDF/tdt4160-f10-minneteknologier-og-raskere-hurtigbuffere(2).pdf",
-    "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25-v1.pdf",
     "Forelesninger/Forelesning 10.28.md",
     "Bilder/Forelesninger/Pasted image 20251028113738.png",
     "Bilder/Forelesninger/Pasted image 20251028112709.png",
-    "Forelesninger/PDF/tdt4160-f9-minnesystem(3).pdf",
     "Praktiske Øvnger/Øving 3/Øving 3.3.md",
     "Forelesninger/Forelesning 10.21.md",
     "Bilder/Notater/Kap 4/Pasted Image 20251015130107_364.png",
@@ -286,7 +301,6 @@
     "Praktiske Øvnger/Øving 3/Øving 3.2.md",
     "Praktiske Øvnger/Øving 3/Øving 3.1.md",
     "Praktiske Øvnger/Øving 2/Øving 2.1.md",
-    "Praktiske Øvnger/Øving 3",
     "Praktiske Øvnger/Øving 1.md",
     "Praktiske Øvnger/Øving 2/Øving 2.2.md",
     "Notater/Kap 4.md",

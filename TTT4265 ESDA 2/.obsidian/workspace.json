@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sannsynlighet for å få oppgaver jeg ikke vil.md",
+                "file": "Designnotat/Designnotat VII/Notat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sannsynlighet for å få oppgaver jeg ikke vil"
+              "title": "Notat"
             }
           },
           {
@@ -27,70 +27,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Øvinger/Øving 14/ESDA_II___Øving_14.pdf"
+                "file": "Øvinger/Øving 10/Oppgaver Øving 10.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "ESDA_II___Øving_14"
-            }
-          },
-          {
-            "id": "3cdcc8724387b900",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Øvinger/Øving 14/Øving 14.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Øving 14"
-            }
-          },
-          {
-            "id": "565dd0fe08efcc96",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Øvinger/Øving 15/ESDA_II_Øving_15.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ESDA_II_Øving_15"
-            }
-          },
-          {
-            "id": "d943c95087ce72a4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Øvinger/Øving 13/ESDA_II___Øving_13.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ESDA_II___Øving_13"
-            }
-          },
-          {
-            "id": "e308ccc9cae26cd1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Øvinger/Øving 15/Øving 15 Tegning.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Øving 15 Tegning"
-            }
-          },
-          {
-            "id": "5b1e9e3d374a7774",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Øvinger/Øving 13/Drawing.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing"
+              "title": "Oppgaver Øving 10"
             }
           },
           {
@@ -148,9 +88,20 @@
               "icon": "lucide-file",
               "title": "T5"
             }
+          },
+          {
+            "id": "1918b600e3724997",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Designnotat/Designnotat V/Designnotat_V.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Designnotat_V"
+            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,12 +166,11 @@
               "title": "ttt4265_samtaletema_2025"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 868.5
+    "width": 617.5
   },
   "right": {
     "id": "4f1dd813ca13da5c",
@@ -329,7 +279,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 891.5
+    "width": 891.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -345,28 +296,33 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d375782f11063f56",
+  "active": "b40ecb1e24a543f2",
   "lastOpenFiles": [
-    "Video notater/T2.md",
+    "Designnotat/Designnotat VIII/Designnotat_VIII_V2.pdf",
+    "Designnotat/Designnotat VII/Designnotat_VII_V2.pdf",
+    "Designnotat/Designnotat_VII_V2.pdf",
+    "Designnotat/Designnotat_VIII_V2.pdf",
+    "Designnotat/Designnotat_VII_v2.pdf",
+    "Designnotat/Designnotat_VIII_v2.pdf",
+    "Designnotat/Designnotat VIII/Bilder/one to many.png",
+    "Designnotat/Designnotat V/D5_2025.pdf",
+    "Designnotat/Designnotat VII/Designnotat_VII_v1.4.pdf",
+    "Designnotat/Designnotat VII/Notat.md",
+    "Designnotat/Designnotat VII/D7.pdf",
     "Sannsynlighet for å få oppgaver jeg ikke vil.md",
-    "ttt4265_samtaletema_2025.pdf",
-    "Video notater/T3.md",
     "Video notater/T4.md",
+    "ttt4265_samtaletema_2025.pdf",
+    "Øvinger/Øving 11/oving_11.pdf",
     "Video notater/T5.md",
-    "Video notater/F2.md",
-    "Øvinger/Øving 13/ESDA_II___Øving_13.pdf",
-    "Øvinger/Øving 15/Øving 15 Tegning.md",
+    "Video notater/T3.md",
+    "Øvinger/Øving 9/Oppgaver Øving 9.md",
+    "Video notater/T2.md",
+    "Øvinger/Øving 10/Oppgaver Øving 10.md",
     "Øvinger/Øving 13/Drawing.md",
-    "Øvinger/Øving 15/ESDA_II_Øving_15.pdf",
-    "Øvinger/Øving 13/Drawing.pdf",
-    "Øvinger/Øving 14/ESDA_II___Øving_14.pdf",
-    "Øvinger/Øving 14/Øving 14.pdf",
-    "Øvinger/Øving 13/Øving 13.pdf",
+    "Øvinger/Øving 15/Øving 15 Tegning.md",
+    "Video notater/F2.md",
     "Kvitteringer.md",
-    "Designnotat/Designnotat VIII/Designnotat_VIII_v3.pdf",
-    "Designnotat/Designnotat VIII/Designnotat_VIII.pdf",
     "Øvinger/Øving 15/Øving 15.md",
-    "Øvinger/Øving 15/Øving 15.pdf",
     "Øvinger/Øving 14/Øving 14.md",
     "Øvinger/Øving 13/Øving 13.md",
     "Forelesninger/Forelesning 11.12.25.md",
@@ -381,16 +337,12 @@
     "Designnotat/Designnotat VIII/Bilder/Pasted image 20251107165016.png",
     "Designnotat/Designnotat VIII/Bilder/Pasted image 20251107163949.png",
     "Designnotat/Designnotat VIII/Data/Oscilloskop plot.jpg",
-    "Designnotat/Designnotat VIII/Data/Spektrum EXP AVG.jpg",
     "Øvinger/Øving 16/Øving 16.md",
     "Øvinger/Øving 16/Drawing 2025-10-29 10.08.44.excalidraw.md",
     "Øvinger/Øving 17/Øving 17.md",
-    "Designnotat/Designnotat VII/Notat.md",
     "Bilder/Øvinger/Øving 14/Oppgave 3.md",
     "Bilder/Øvinger/Øving 14/Del 3 opgv 1.md",
     "opgv 2 del 1 c).md",
-    "Bilder/Øvinger/Øving 14.md",
-    "Stella hjelp.md",
-    "Designnotat/Designnotat VI/Notat.md"
+    "Bilder/Øvinger/Øving 14.md"
   ]
 }

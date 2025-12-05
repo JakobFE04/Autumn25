@@ -22,37 +22,45 @@
             }
           },
           {
-            "id": "9a7c669bcd46fc08",
+            "id": "ae8bbf5a4ab7c643",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Arbeidshefter/3-1/3-1.pdf"
+                "file": "Forelesninger/Kap 3-12 11.11.25.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "3-1"
+              "icon": "lucide-file",
+              "title": "Kap 3-12 11.11.25"
             }
           },
           {
-            "id": "fc12bd241322860b",
+            "id": "d9c05ff964e7ef8f",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Arbeidshefter/3-2/3-2.pdf"
+                "file": "Eksamen/4111-23h-bm.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "3-2"
+              "title": "4111-23h-bm"
             }
-          }
-        ]
-      },
-      {
-        "id": "eb182d6e742c1dcb",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "c265bd76c0739100",
+            "id": "d7f54ad877659845",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Eksamen/4111-23h-lf.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "4111-23h-lf"
+            }
+          },
+          {
+            "id": "c61c77d5da7e3d53",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -64,115 +72,19 @@
             }
           },
           {
-            "id": "b17f6b4ec2c00a57",
+            "id": "e22037cf7501c861",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Arbeidshefter/3-4/3-4.pdf"
+                "file": "Arbeidshefter/3-3/3-3.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "3-4"
-            }
-          },
-          {
-            "id": "8c1d078e15918050",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Arbeidshefter/3-5/3-5.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "3-5"
-            }
-          },
-          {
-            "id": "c96affcfcd28da57",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Arbeidshefter/3-6/3-6.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "3-6"
-            }
-          },
-          {
-            "id": "36084134f6208259",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Arbeidshefter/3-7/3-7.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "3-7"
-            }
-          },
-          {
-            "id": "3dd8a752b2a485de",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Arbeidshefter/3-8/3-8.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "3-8"
-            }
-          },
-          {
-            "id": "9e143a057ec6c18e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Arbeidshefter/3-9/3-9.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "3-9"
-            }
-          },
-          {
-            "id": "b213283ace80d8a2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Arbeidshefter/3-10/3-10.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "3-10"
-            }
-          },
-          {
-            "id": "34284d74fadbfc42",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Arbeidshefter/3-11/3-11.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "3-11"
-            }
-          },
-          {
-            "id": "31ea274030990192",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Arbeidshefter/3-12/3-12.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "3-12"
+              "title": "3-3"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -342,31 +254,32 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5be6cded028cb41a",
+  "active": "d9c05ff964e7ef8f",
   "lastOpenFiles": [
-    "Forelesninger/Forelesning 11.18.25.md",
-    "Eksamen/Ting skal kunne og må jobbe med.md",
-    "Forelesninger/Kap 3-12 11.11.25.md",
-    "Arbeidshefter/3-1/3-1.pdf",
-    "Pasted image 20251111083209.png",
-    "Arbeidshefter/3-12/3-12.pdf",
+    "Eksamen/4111-23h-lf.pdf",
+    "Eksamen/4111-23h-bm.pdf",
     "Arbeidshefter/3-3/3-3.pdf",
+    "Arbeidshefter/3-2/3-2.pdf",
+    "Eksamen/Ting skal kunne og må jobbe med.md",
+    "Arbeidshefter/3-12/3-12.pdf",
+    "Forelesninger/Kap 3-12 11.11.25.md",
     "Arbeidshefter/3-11/3-11.pdf",
-    "Arbeidshefter/3-10/3-10.pdf",
     "Arbeidshefter/3-9/3-9.pdf",
-    "Arbeidshefter/3-8/3-8.pdf",
-    "Untitled.md",
+    "Arbeidshefter/3-10/3-10-lf.pdf",
+    "Arbeidshefter/3-10/3-10.pdf",
     "Arbeidshefter/3-7/3-7.pdf",
-    "Arbeidshefter/3-6/3-6.pdf",
-    "Arbeidshefter/3-5/3-5.pdf",
+    "Forelesninger/Kap 3-9 14.10.25.md",
+    "Forelesninger/Kap 3-8 07.10.25.md",
+    "Arbeidshefter/3-8/3-8.pdf",
+    "Forelesninger/Forelesning 11.18.25.md",
+    "Pasted image 20251111083209.png",
+    "Untitled.md",
     "Pasted image 20251106153723.png",
     "Forelesninger/Kap 3-11 04.11.25.md",
     "Bilder/Forelesninger/Pasted image 20251104083019.png",
     "Forelesninger/Kap 3-10 28.10.25.md",
     "Kapitel Notater/Kap 3-1 FLUENS STOLTE GANG OVER RULLEGARDINEN.md",
     "Forelesninger/Kap 3-7 30.09.25.md",
-    "Forelesninger/Kap 3-9 14.10.25.md",
-    "Forelesninger/Kap 3-8 07.10.25.md",
     "Bilder/Forelesninger/Pasted image 20251007092901.png",
     "Oppgaver å dra tilbake til.md",
     "Bilder/Forelesninger/14.10.25 nr 1.png",
@@ -388,7 +301,6 @@
     "Arbeidshefter/3-2/Oppgaver.md",
     "Arbeidshefter/3-13/Oppgaver 1.md",
     "Arbeidshefter/3-12/Oppgaver 1.md",
-    "Arbeidshefter/3-11/Oppgaver 1.md",
-    "Arbeidshefter/3-10/Oppgaver 1.md"
+    "Arbeidshefter/3-11/Oppgaver 1.md"
   ]
 }

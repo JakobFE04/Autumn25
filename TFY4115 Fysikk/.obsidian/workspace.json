@@ -8,54 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "922dcc891b4f45b6",
+            "id": "5c074b64aa6d4c12",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Eksamener/K23/Eksamen_TFY4115_Fysikk_S2023_losningsforslag.pdf"
+                "file": "Eksamener/H22/Eksamen_TFY4115_Fysikk_H2022.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Eksamen_TFY4115_Fysikk_S2023_losningsforslag"
+              "title": "Eksamen_TFY4115_Fysikk_H2022"
             }
           },
           {
-            "id": "1af9c51646aabc28",
+            "id": "9a7ee510e262d295",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "TFY4115 Formelark S2023(1).pdf"
+                "file": "Eksamener/H22/LF_Eksamen_TFY4115_Fysikk_H2022.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "TFY4115 Formelark S2023(1)"
+              "title": "LF_Eksamen_TFY4115_Fysikk_H2022"
             }
           },
           {
-            "id": "6907b26478874040",
+            "id": "3bab696be420b944",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Eksamener/K23/Eksamen_TFY4115_Fysikk_S2023_bokmål.pdf"
+                "file": "Forelesninger/Forelesning 11.04.25.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Eksamen_TFY4115_Fysikk_S2023_bokmål"
-            }
-          },
-          {
-            "id": "68b0d51f3b082cb0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Forelesninger/PDF/Forelesning013 BEVEGELSE.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Forelesning013 BEVEGELSE"
+              "icon": "lucide-file",
+              "title": "Forelesning 11.04.25"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 429.5
   },
   "right": {
     "id": "b10563b906fce344",
@@ -225,34 +216,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "922dcc891b4f45b6",
+  "active": "3bab696be420b944",
   "lastOpenFiles": [
-    "formler_021225_tfy4115.pdf",
-    "TFY4115 Formelark S2023(1).pdf",
+    "Forelesninger/Forelesning 10.14.25.md",
+    "Forelesninger/Forelesning 09.30.25.md",
+    "Forelesninger/Forelesning 09.02.25.md",
+    "Forelesninger/Forelesning 08.26.25.md",
+    "Forelesninger/Forelesning 08.19.25.md",
+    "Eksamener/H22/LF_Eksamen_TFY4115_Fysikk_H2022.pdf",
+    "Eksamener/H22/Eksamen_TFY4115_Fysikk_H2022.pdf",
+    "Eksamener/H23/Eksamen_TFY4115_Fysikk_H2023_bokmål.pdf",
     "Eksamener/K23/Eksamen_TFY4115_Fysikk_S2023_bokmål.pdf",
     "Eksamener/K23/Eksamen_TFY4115_Fysikk_S2023_losningsforslag.pdf",
-    "Forelesninger/PDF/Forelesning013 BEVEGELSE.pdf",
-    "Forelesninger/PDF/Forelesning015.pdf",
     "Eksamener/K24/Eksamen_TFY4115_Fysikk_S2024(1).pdf",
-    "Eksamener/K23",
     "Eksamener/K24/Eksamen_TFY4115_Fysikk_S2024_losningsforslag(2).pdf",
-    "Forelesninger/PDF/ForelesningTH21.pdf",
-    "Forelesninger/PDF/ForelesningTH16.pdf",
+    "Forelesninger/PDF/ForelesningTH23.pdf",
+    "Forelesninger/PDF/Forelesning013 BEVEGELSE.pdf",
+    "TFY4115 Formelark S2023(1).pdf",
     "Forelesninger/Forelesning 11.04.25.md",
-    "Forelesninger/Forelesning 08.19.25.md",
     "Forelesninger/Forelesning 11.11.25.md",
     "Bilder/Forelesninger/Pasted image 20251111151729.png",
     "Bilder/Forelesninger/Pasted image 20251111143602.png",
     "Bilder/Forelesninger/Pasted image 20251104152146.png",
     "Bilder/Forelesninger/Pasted image 20251104144040.png",
-    "Forelesninger/Forelesning 10.14.25.md",
-    "Forelesninger/Forelesning 09.30.25.md",
-    "Forelesninger/Forelesning 09.02.25.md",
     "Bilder/Forelesninger/Pasted image 20250902141922.png",
     "Bilder/Forelesninger/Pasted image 20250902151748.png",
     "Øvinger/Øving 1/Notes.md",
     "Øvinger/Øving 1/Øving 1 Oppgaver.md",
-    "Forelesninger/Forelesning 08.26.25.md",
     "Bilder/Forelesninger/26.08.25 nr 1.png",
     "Bilder/Forelesninger/Forelesning 19.08.25 bilde 1.png",
     "Welcome.md"
