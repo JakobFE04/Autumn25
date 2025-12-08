@@ -6,7 +6,7 @@
       {
         "id": "a7fbb49851c74ad0",
         "type": "tabs",
-        "dimension": 40.99232132309509,
+        "dimension": 46.33569739952718,
         "children": [
           {
             "id": "18c564c4c7eccb0c",
@@ -45,25 +45,39 @@
               "icon": "lucide-file-text",
               "title": "tdt4160-kont25"
             }
+          },
+          {
+            "id": "50989df62a7c86ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Læringsutbytte notater.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Læringsutbytte notater"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "c3b326c6e6a526a9",
         "type": "tabs",
-        "dimension": 59.00767867690491,
+        "dimension": 53.66430260047282,
         "children": [
           {
-            "id": "3cde9077bb0e6f24",
+            "id": "a1e3d51394583e3d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Planer/semesterplan-h25-tdt4160.pdf"
+                "file": "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25(5).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "semesterplan-h25-tdt4160"
+              "title": "laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25(5)"
             }
           },
           {
@@ -79,19 +93,19 @@
             }
           },
           {
-            "id": "a1e3d51394583e3d",
+            "id": "3a6de5f376ab2665",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25(5).pdf"
+                "file": "Datamaskiner, utfylt læringsmål.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25(5)"
+              "title": "Datamaskiner, utfylt læringsmål"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -272,30 +286,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1bb0a86b4281fc8",
+  "active": "3a6de5f376ab2665",
   "lastOpenFiles": [
-    "Eksamener/tdt4160-kont25.pdf",
+    "Læringsutbytte notater.md",
     "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25(5).pdf",
-    "Planer/semesterplan-h25-tdt4160.pdf",
+    "Datamaskiner, utfylt læringsmål.pdf",
     "Datdig Pensumbok + 36.pdf",
-    "Forelesninger/PDF/tdt4160-f12-parallelle-datamaskiner-og-akseleratorer(1).pdf",
+    "Pasted image 20251207163641.png",
+    "Forelesninger/Forelesning 09.09.md",
+    "Pasted image 20251207152757.png",
+    "Pasted image 20251207152653.png",
+    "Pasted image 20251207152638.png",
+    "Pasted image 20251207152420.png",
+    "Pasted image 20251207152318.png",
+    "Pasted image 20251207152204.png",
+    "Pasted image 20251207152126.png",
+    "Pasted image 20251207143256.png",
+    "Pasted image 20251207143004.png",
+    "Forelesninger/Forelesning 09.02.md",
+    "Planer/semesterplan-h25-tdt4160.pdf",
     "Jukse kort.pdf",
+    "Forelesninger/Forelesning 08.26.md",
+    "Forelesninger/PDF/tdt4160-f3-instruksjoner2(2).pdf",
+    "Forelesninger/PDF/tdt4160-f1-intro.pdf",
+    "Notater/Kap 1.md",
+    "Forelesninger/Forelesning 08.19.md",
+    "Nettside datamaskiner 101.md",
+    "Eksamener/tdt4160-kont25.pdf",
+    "Forelesninger/PDF/tdt4160-f12-parallelle-datamaskiner-og-akseleratorer(1).pdf",
     "Eksamener/tdt4160-ordinaer-eksamen24.pdf",
-    "Eksamener",
     "Forelesninger/Forelesning 11.11.md",
-    "Forelesninger/PDF/tdt4160-f11-virtuelt-minne-og-parallelle-datamaskiner(1).pdf",
     "Praktiske Øvnger/P4/Øving 4.md",
     "Praktiske Øvnger/P4/Failure.md",
-    "Praktiske Øvnger/P4",
     "Forelesninger/Forelesning 11.04.md",
-    "Forelesninger/PDF/tdt4160-f10-minneteknologier-og-raskere-hurtigbuffere(2).pdf",
     "Forelesninger/Forelesning 10.28.md",
-    "Bilder/Forelesninger/Pasted image 20251028113738.png",
-    "Bilder/Forelesninger/Pasted image 20251028112709.png",
     "Praktiske Øvnger/Øving 3/Øving 3.3.md",
     "Forelesninger/Forelesning 10.21.md",
-    "Bilder/Notater/Kap 4/Pasted Image 20251015130107_364.png",
-    "Bilder/Notater/Kap 4/Pasted Image 20251015130227_153.png",
     "Forelesninger/Forelesning 10.14.md",
     "Teoretisk Øvinger/Øving 4.md",
     "Praktiske Øvnger/Øving 3/Øving 3.2.md",
@@ -304,21 +330,8 @@
     "Praktiske Øvnger/Øving 1.md",
     "Praktiske Øvnger/Øving 2/Øving 2.2.md",
     "Notater/Kap 4.md",
-    "Bilder/Notater/Kap 4/4.7 image 2.png",
     "Forelesninger/Forelesning 09.30.md",
-    "Bilder/Notater/Kap 4/4.7 image 1.png",
-    "Bilder/Notater/Kap 4/Kap 4.5 figur 4.5.4.png",
     "Forelesninger/Forelesning 09.23.md",
-    "Bilder/Forelesninger/Pasted image 20250923104936.png",
-    "Bilder/Forelesninger/Pasted image 20250923103246.png",
-    "Bilder/Forelesninger/Pasted image 20250923102248.png",
-    "Forelesninger/Forelesning 09.16.md",
-    "Forelesninger/Forelesning 09.09.md",
-    "Notater/Kap 2.md",
-    "Notater/Kap 1.md",
-    "Notater/Kap 3.md",
-    "Forelesninger/Forelesning 09.02.md",
-    "Forelesninger/Forelesning 08.26.md",
-    "Oppgaver/Kap 1.md"
+    "Forelesninger/Forelesning 09.16.md"
   ]
 }

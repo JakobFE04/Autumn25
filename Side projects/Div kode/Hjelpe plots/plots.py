@@ -63,7 +63,7 @@ plt.savefig("Spectrum Sample.jpg")
 
 fig3 = plt.figure(3)
 ax3 = fig3.add_subplot()
-ax3.plot(scope_data['Time (s)']*1000,scope_data['Channel 1 (V)'], 'orange', label="s(t)")
+# ax3.plot(scope_data['Time (s)']*1000,scope_data['Channel 1 (V)'], 'orange', label="s(t)")
 ax3.plot(scope_data['Time (s)']*1000,scope_data['Channel 2 (V)'], 'blue', label="y(t)")
 ax3.set_title("Oscilloskop måling")
 ax3.set_ylabel("Spenning [V]")

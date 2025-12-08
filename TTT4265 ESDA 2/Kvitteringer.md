@@ -12,3 +12,8 @@ D7 1b624ee016d5403493da2811de91c938
 Øving 17 c6db0a7d01554648aee24660bddc3f0c
 
 D8 81228dddeddb4806816808740244ea15
+
+
+Første valgt designnotat: e16323a7da964d52b1d275b451e315af
+
+Andre valgt designnotat: 04e865f48b404be2a47f78baf6cd3735
