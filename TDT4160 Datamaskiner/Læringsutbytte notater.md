@@ -1,7 +1,7 @@
 # T1 Introduksjon og ytelse
 ## T1.1 Datamaskintyper og de 7 store ideene
 ### 1.
--  - Ultralaveffekt systemer
+-  Ultralaveffekt systemer
 	- På batterier, lite varme
 - Innvevde systemer
 	- Drone, headset
@@ -16,7 +16,8 @@
 - Datasentre og superdatamaskiner
 	- Svære mengder beregninger og datalagring
 	- Hundre tusenvis av prosessorer og brukes for high-end vitenskapelig utvikling og beregninger.
-### 2.
+
+### 2. De 7 store ideene i datamaskinarkitektur
 - Bruk av abstraksjon for å forenkle design
 - Gjør det vanlige tilfellet raskt
 	- Det som kjører mest sparer vi mest tid på å gjøre mest effektiv
@@ -49,6 +50,7 @@ Originalt var ting oppgitt i binære term men på grunn av standarde desimalsyst
 		- Kompilatoren
 			- Oversetter mellom høy nivå kodespråk som C, C++ og Python til maskinintstruksjoner som maskinvaren kan kjøre. 
 			- Kan være
+
 ### 2. 5 Hovedkomponenter i en datamaskin
  - En datamaskin består av fem komponenter:
 	- Inndata
@@ -61,7 +63,7 @@ Originalt var ting oppgitt i binære term men på grunn av standarde desimalsyst
 Minne: inneholder instruksjoner og data
 - Ser ikke forskjell på de, bare nullere og enere
 
-Prosessor (CPU): Gjør beregninger på datta gitt instruksjoner den mottar
+Prosessor (CPU): Gjør beregninger på data gitt instruksjoner den mottar
 - Henter en instruks fra minnet og eventuell annen data den trenger.
 - Gir data tilbake til minne når ferdig.
 
@@ -502,24 +504,98 @@ $$
 - Register renaming vil si at vi legger til flere registre enn hva vi programmet vårt vet om, slik at vi kan omdøpe registre som har navnavhenigheter som fører til WAW og WAR farer.
 - F.eks to instruksjoner som begge vil skrive til x3 blir døpt om til å skrive til ekstra registre p5 og p6.
 ### 4. Fordeler og ulemper med "Static multie-issue" prosessorer
+- Kan kjøre flere instrukser helt samtidig som gir økt ytelse.
+- Krever at enten kompilatoren tar en del ansvar for å redusere/unngå farer eller at hardwaren forsinker instrukser dersom dukker opp. 
+- Må kunne kjøre f.eks. to instrukser samtidig i en two issue pipeline, hvor ene må erstattes med en $nop$ om ikke kan lages et instruksjonspar.
+- Krever ekstra datalinjer, og f.eks. ekstra inn/utganger til registrene, immediate generator og ALU for å lage en static two issue pipeline.
 
-### 5. Prinsippe
+### 5. Prinsippet bak ut av rekkefølge implementeres
+- Instruksjoner går gjennom som vanlig til de kommer inn i rename registeret.
+	- Der blir WAW og WAR farer fjernet ved å omdøpe registrene brukt slik at får kopier av alle dataene og unngår navnavhengigheter.
+- Deretter blir instruksene sendt til Dispatch som holder instruksjonen til den sendes inn i riktig issue buffer, enten for å gjøre en ALU eller minne operasjon. Kan da gjøre minne og ALU operasjoner samtidig ved å ha 2 paralelle tråder.
+- Rekkefølgen på instruksene blir lagret i Reorder Bufferet som passer på at rekkefølgen instruksjonene blir sendt ut av WB er samme som de kom inn i.
 ### 6. Forklare spekulasjon
 - Fra flotte ideen om prediksjon har vi spekulasjon som lar kompilatoren gjette på egenskapene til en instruksjonen, slik at den kan starte å kjøre instruksjoner avhengige av den spekulerte instruksjonen tidligere. Dette fører til høyere ytelse ved med instruksjonsnivåparallellisme.
 # T6: Minnesystemet
 ## T6.1 Minnehierarki og hurtigbuffer
-### 1.
-### 2. 
-### 3.
-### 4.
-### 5.
+### 1.  Lokalitet i tid og rom, og hvordan oppstår
+- Lokalitet oppstår som en konsekvens av hvordan vi programmer. I minnehierarkiet vil det ofte være at om vi aksesserer et dataelement, så vil vi sikkert bruke det igjen snart (lokalitet i tid) og at vi vil bruke dataelementen i nærheten i minnet (lokalitet i rom).
+### 2. Hierarki av minner gir illusjon av stort og raskst minne.
+- Lokalitet og hierarki av minner brukes for å skape illusjonen om at vi har et veldig stort og raskt minne. 
+	- Når vi veldig ofte har dataelementene lett tilgjengelig i det lille raske minnet på grunn av lokalitet, så vil vi på snitt bruke veldig lite tid selv om det tar veldig lang tid å hente nye dataelementer fra lengre bak i minnet.
+### 3. Konstruere direktetilordnet hurtigbuffer og utvide til å håndtere hurtigbufferblokker på mer enn ett ord
+Direktetilordnet hurtigbuffer kan hver adresse bare ligge på et sted i cachen. Har samme adresse som i hovedminnet, men deler det opp i byte offset, index og tag.
+![[Pasted image 20251208122551.png]]
 
+Kan korte ned på index og legge til block offset for å legge til flere ord per hurtigbufferblokk. Da vil vi kunne hente ut flere ord for hver gang en aksesserer minne som gjør at får større sansynlighet for å treffe på dataelementer lokalt i rom.
+
+### 4. Hurtigbuffere integrert i samlebåndsarkitektur
+Kan ha et hurtigbuffer for instruksjonene i IF og for data i MEM.
+- Dersom en treffer i et lite nok hurtigbuffer i samlebåndet så vil en kunne hente ut dataelementer direkte fra hurtigbufferet innen klokkesyklusen og fortsette som tidligere.
+- Dersom en bommer må en stanse samlebåndet til dataelementet blir hentet fra minnet før en kan fortsette instruksjonen.
+### 5. Skrive til hurtigbuffer
+Når det skrives til hurtigbufferet må det også oppdateres i minnet, brukes to hovedmetoder:
+- Write-through: Hver gang skrives til hurtigbufferet så skrives det og gjennom til minnet.
+- Writhe-back: Når et dataelement blir kastet ut av hurtigbufferet så oppdateres minnet. Må da vite om hurtigbufferblokk har blitt skrevet til med en dirty bit som indikerer at den har blitt endret.
+Dersom vi skulle bomme på skriveoperasjonen, altså adressen vi vil skrive til ikke er lagret i hurtigbufferet har vi to til metoder:
+- No write allocate: Skrive rett til minnet
+- Write allocate: Henter dataelementet til hurtigbufferet og skriver til den i hurtigbufferet.
+### 6. Beregne hvordan minneaksesstid påvirker ytelse
+Se hvor mange instrukser som aksesserer forskjellige nivåene av minnet og hvor lang tid det tar. F.eks:
+- 90% treffer i 1. nivå minne (hurtigbuffer) og bruker 1 sykel.
+- 8% treffer i 2. nivå minne og bruker 10 sykler.
+- 2% treffer i 3. nivå minne og bruker 100 sykler.
+	- Får da at:
+$$
+ \begin{equation} 
+ 1\cdot 0.9 + (1+10) \cdot0.08 + (1+10+100) \cdot 0.02 = 4.0
+ \end{equation} 
+$$
+	- Gjennomsnittlige minnelatens blir da 4 sykler.
+
+$$
+ \begin{equation} 
+ \text{CPI} = \frac{\text{Sykler (beregning)}}{\text{Instruksjoner (total)}}+ \frac{\text{Sykler (minne)}}{\text{Instrukser (total)}} 
+ \end{equation} 
+$$
+### 7. Beregne treffraten i flernivå hurtigbuffer via aksesstiden
+^^^^
+
+### 8. Hvorfor sett- og fullassosiative hurtigbuffer øker treffraten
+
+![[Pasted image 20251208160928.png]]
+Med sett- og fullassosiative hurtigbuffere kan vi velge mellom flere plasser å plassere dataelementene i hurtigbufferet. Kan da i settassosiative velge mellom et av settene og plassere for index verdien i de, eller for en fullassosiative kan du plasse en blokk hvor som helst, men er ekstra dyrt for må sammenligne med alle tagsene i hurtigbufferet.
+For å bestemme hvilken en velger er det vanlig å bruke den minst nylig brukte (LRU) som passer på hvor lenge siden de forskjellige hurtigbufferblokkene har blitt aksessert.
+
+### 9. Øke treffraten med programvare
+- Ved bruk av blokking kan en øke treffraten.
+	- Går ut på å øke lokaliteten ved å redusere antallet minneaksesser i programmet mellom hver aksess til samme data.
+	- AKA skrive bedre kode som tar mer hensyn til minne og gjenbruker data mer effektivt.
 ## T6.2 Minne-teknologier
-### 1.
-### 2. 
-### 3.
-### 4.
-### 5.
+### 1. Volatilt vs ikke-volatilt minne og statisk vs dynamisk minne
+- Volatilt minne
+	- Mister verdiene lagret når mister strøm
+	- RAM: Random access memory
+		- Tar like lang tid å aksessere alle elementene i minnet
+		- SRAM og DRAM
+			- SRAM: Static Random Access Memory. Bygges opp av raske registerte med Tristate buffer for å kunne koble flere utganger sammen, og deles opp i matriseform for å få en enklere dekoder.
+			- DRAM: Dynamic Random Acess Memory. Lagrer dataen i en kondensator som vil lade seg ut over tid og når leser av. Må derfor jevnlig skrive tilbake til minne før lader seg for mye ut. Billigere og kan lagre flere verdier på samme areal enn SRAM. Aksesseres ved å sende adressen i to skritt, til raden og kolonnen til minnet. Kobles ofte seperat fra prosessoren via minnebus, f.eks. DDR5 (Double Data Rate) som sender på positiv og negativ flanke.
+- Ikke-volatilt minne
+	- Beholder verdiene selvom mister strøm.
+	- Flash lagring og magnetisk disk
+		- Flash er raskere å lese og skrive til for er helt elektronisk, men er begrenset hvor mange ganger en kan skrive til forskjellige delene av minnet. Forhindrer dette ved å skrive jevnt ut til hele minnet.
+		- Magnetisk disk bruker lengre tid for må mekanisk bevege seg til riktig spor og snurre det rundt for å lese/skrive. Bitene lagres i magnetisk materiale og kan skrives til uten problemer. God for lagring av store mengder data som ikke må kunne hentes spesielt raskt som langtidslagring.
+### 2. Kostnad av minne og bruk i hierarkiet
+- Kostnad og plassering i hierarkiet går ettersom
+	- 1. SRAM, raskest men dyrest å gjøre stort
+	- 2. DRAM, ganske raskt og relativt stort
+	- 3. Flash, relativt raskt og ganske stort
+	- 4. Magnetisk disk, ganske tregt men svært stort og relativt billig.
+### 3. Konstruere SRAM
+![[Pasted image 20251208173956.png]]
+Ut fra decoderen kommer om skal skru på kolonnene (Enable) for å lese av verdien. Dersom Write enable er på vil det også sendes høy til klokken på registeret (C) og inngangen (D) vil propagere til utgangen Q.
+### 4. Konstruere DRAM
+![[Pasted image 20251208174537.png]]
 
 ## T6.3 Virtuelt minne
 ### 1.

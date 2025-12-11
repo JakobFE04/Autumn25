@@ -4,82 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "a7fbb49851c74ad0",
-        "type": "tabs",
-        "dimension": 46.33569739952718,
-        "children": [
-          {
-            "id": "18c564c4c7eccb0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forelesninger/Forelesning 11.11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Forelesning 11.11"
-            }
-          },
-          {
-            "id": "4045a76cb77d77ad",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Jukse kort.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Jukse kort"
-            }
-          },
-          {
-            "id": "7c4854986dbe9862",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Eksamener/tdt4160-kont25.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "tdt4160-kont25"
-            }
-          },
-          {
-            "id": "50989df62a7c86ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Læringsutbytte notater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Læringsutbytte notater"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
         "id": "c3b326c6e6a526a9",
         "type": "tabs",
-        "dimension": 53.66430260047282,
         "children": [
-          {
-            "id": "a1e3d51394583e3d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25(5).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25(5)"
-            }
-          },
           {
             "id": "c1bb0a86b4281fc8",
             "type": "leaf",
@@ -103,9 +30,59 @@
               "icon": "lucide-file-text",
               "title": "Datamaskiner, utfylt læringsmål"
             }
+          },
+          {
+            "id": "fbc1f5e711c0f383",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Eksamener/tdt4160-ordinaer-eksamen24.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "tdt4160-ordinaer-eksamen24"
+            }
+          },
+          {
+            "id": "069b99fcecc85f00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notater/Kap 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kap 2"
+            }
+          },
+          {
+            "id": "25084eac8de7b02e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Jukse kort.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Jukse kort"
+            }
+          },
+          {
+            "id": "a106dd2ba5d08fd7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25(5).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25(5)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -174,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 226.5,
+    "collapsed": true
   },
   "right": {
     "id": "fe174204fe5237ac",
@@ -286,12 +264,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a6de5f376ab2665",
+  "active": "a106dd2ba5d08fd7",
   "lastOpenFiles": [
-    "Læringsutbytte notater.md",
-    "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25(5).pdf",
-    "Datamaskiner, utfylt læringsmål.pdf",
+    "Eksamener/tdt4160-ordinaer-eksamen24.pdf",
     "Datdig Pensumbok + 36.pdf",
+    "Datamaskiner, utfylt læringsmål.pdf",
+    "Læringsutbytte notater.md",
+    "Læringsutbytte notater.pdf",
+    "Planer/laeringsutbyttebeskrivelser-og-oppgaver-tdt4160-h25(5).pdf",
+    "Eksamener/tdt4160-kont25.pdf",
+    "Jukse kort.pdf",
+    "Notater/Kap 2.md",
+    "Forelesninger/Forelesning 11.11.md",
+    "Pasted image 20251208174537.png",
+    "Pasted image 20251208173956.png",
+    "Pasted image 20251208160928.png",
+    "Pasted image 20251208122551.png",
     "Pasted image 20251207163641.png",
     "Forelesninger/Forelesning 09.09.md",
     "Pasted image 20251207152757.png",
@@ -299,23 +287,14 @@
     "Pasted image 20251207152638.png",
     "Pasted image 20251207152420.png",
     "Pasted image 20251207152318.png",
-    "Pasted image 20251207152204.png",
-    "Pasted image 20251207152126.png",
-    "Pasted image 20251207143256.png",
-    "Pasted image 20251207143004.png",
     "Forelesninger/Forelesning 09.02.md",
     "Planer/semesterplan-h25-tdt4160.pdf",
-    "Jukse kort.pdf",
     "Forelesninger/Forelesning 08.26.md",
     "Forelesninger/PDF/tdt4160-f3-instruksjoner2(2).pdf",
     "Forelesninger/PDF/tdt4160-f1-intro.pdf",
     "Notater/Kap 1.md",
     "Forelesninger/Forelesning 08.19.md",
     "Nettside datamaskiner 101.md",
-    "Eksamener/tdt4160-kont25.pdf",
-    "Forelesninger/PDF/tdt4160-f12-parallelle-datamaskiner-og-akseleratorer(1).pdf",
-    "Eksamener/tdt4160-ordinaer-eksamen24.pdf",
-    "Forelesninger/Forelesning 11.11.md",
     "Praktiske Øvnger/P4/Øving 4.md",
     "Praktiske Øvnger/P4/Failure.md",
     "Forelesninger/Forelesning 11.04.md",
@@ -331,7 +310,6 @@
     "Praktiske Øvnger/Øving 2/Øving 2.2.md",
     "Notater/Kap 4.md",
     "Forelesninger/Forelesning 09.30.md",
-    "Forelesninger/Forelesning 09.23.md",
-    "Forelesninger/Forelesning 09.16.md"
+    "Forelesninger/Forelesning 09.23.md"
   ]
 }
