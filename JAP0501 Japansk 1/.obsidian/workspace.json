@@ -129,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "right": {
     "id": "33c96c63865fe754",
@@ -244,7 +243,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ed5830a0cc36ccd7",
+  "active": "4dbb6729d48e9aaf",
   "lastOpenFiles": [
     "BB Info/Lesson 9.pdf",
     "Grammatikk/Past tense　です　＆　Verb.md",
