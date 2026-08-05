@@ -30,7 +30,7 @@
 ## Hefte 3 OPTIMERING
 - Hessematrisen
 	- Andre ordens deriverte av $f:\mathbb{R}^2$
-- Lagranges multiplikatormetode
+- **Lagranges multiplikatormetode**
 - Ridgeregresjon
 - Lassoregresjon
 ## Hefte 4 OM VÆR OG VIND OG KRAFT
@@ -52,7 +52,7 @@
 - Linjeintegral over vektorfelt
 	- Kraft ganger vei eller arbeid
 - Linjeintegralet til F over T
-	- $W=\int_{\Gamma}^{}F \cdot ds=\int_{a}^{b}F(x(t))\cdot T(t) \ |\dot{x}(t)| \ dt = \int_{a}^{b}F(x(t))\cdot x(t) \ dt$
+	- $W=\int_{\Gamma}^{}F \cdot ds=\int_{a}^{b}F(x(t))\cdot T(t) \ |\dot{x}(t)| \ dt = \int_{a}^{b}F(x(t))\cdot \dot{x}(t) \ dt$
 - 
 ## Hefte 6 DOBBELTINTEGRALER
 - Volum av omdreiningslegemer
@@ -127,6 +127,3 @@ $$
  \int_{}^{}\int_{\Sigma}^{}f \cdot dS=\int_{}^{}\int_{\Sigma}^{} f \cdot e_{n} \ dS = \int_{}^{}\int_{D}^{}f(g(y)) \frac{\frac{\partial g}{\partial y_{1}}\times \frac{\partial g}{\partial y_{2}}}{|\frac{\partial g}{\partial y_{1}}\times \frac{\partial g}{\partial y_{2}}|} \ |\frac{\partial g}{\partial y_{1}}\times \frac{\partial g}{\partial y_{2}}| \ dy = \int_{}^{}\int_{D}^{}f(g(y)) \cdot \frac{\partial g}{\partial y_{1}}\times \frac{\partial g}{\partial y_{2}} \ dy
  \end{equation} 
 $$
-
-# Ting må jobbe med:
- 

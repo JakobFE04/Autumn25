@@ -52,5 +52,7 @@
 | かど                         | Corner                                                   |
 | しんごう                       | Traffic Light                                            |
 | 左/右がわ                      | Left/Right side                                          |
+| はたらく                       | Å jobbe for penger                                       |
+| もつ                         | Å ha noe (som penger, bil, ting du eier)                 |
 |                            |                                                          |
 i

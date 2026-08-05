@@ -137,12 +137,16 @@ $$
  \end{equation} 
 $$
 Arbeidet f gjør på en partikkel ved å gå en runde rundt $\partial \Omega$ og skal være likk dobbeltintegralet av rotasjon til f på $\Omega$
+
+
 $$
  \begin{equation} 
  2. \ \ \ \int_{}^{}\int_{\Omega}^{}\frac{\partial f_{1}}{\partial x_{1}} +\frac{\partial f_{2}}{\partial x_{2}} \ dx = \int_{\partial \Omega}^{} f \cdot e_{n} \ ds
  \end{equation} 
 $$
-Mål på om vektorfeltet ekspanderer, der $e_{n}$ er utnormalvektoren til $\partial \Omega$. Fluksen til vektorfeltet.
+Mål på om vektorfeltet ekspanderer, der $e_{n}$ er utnormalvektoren til $\partial \Omega$. **Fluksen til vektorfeltet.**
+
+
 
 $$
  \begin{equation} 
@@ -185,12 +189,13 @@ $$
  \implies \frac{1}{m}\begin{pmatrix} \rho\int_{}^{}\int_{\Omega}^{} x_{1} \ dS  \\
 \rho\int_{}^{}\int_{\Omega}^{} x_{2} \ dS  \\
 \rho\int_{}^{}\int_{\Omega}^{} x_{3} \ dS 
-\end{pmatrix}  =\frac{1}{2\pi} \begin{pmatrix} \rho\int_{0}^{\pi/2}\int_{0}^{2\pi} \cos \theta \sin^2 \phi \ d\theta \ d\phi   \\
+\end{pmatrix}  =\frac{1}{2\pi \rho} \begin{pmatrix} \rho\int_{0}^{\pi/2}\int_{0}^{2\pi} \cos \theta \sin^2 \phi \ d\theta \ d\phi   \\
 \rho\int_{0}^{\pi/2}\int_{0}^{2\pi} \sin \theta \sin^2 \phi \ d\theta \ d\phi   \\
 \rho\int_{0}^{\pi/2}\int_{0}^{2\pi} \cos \phi \sin \phi \ d\theta \ d\phi  
 \end{pmatrix} = \frac{1}{2\pi} \begin{pmatrix} 0 \\
 0 \\
-\frac{1}{2}\dots 
-\end{pmatrix} =\dots
+\pi
+\end{pmatrix} =\frac{1}{2}
  \end{equation} 
 $$
+
